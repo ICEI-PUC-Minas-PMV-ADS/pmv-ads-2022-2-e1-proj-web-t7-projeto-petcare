@@ -24,12 +24,14 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`      |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|-----------------------------------------|----------------------------------------|
+|Flávia Amaral       | Manter seu pet sempre bem cuidado.      | Para manter seu pet sempre saudável.            |
+|Flávia Amaral       | Manter o esquema vacinal e vermifugação | Permitir que possam administrar contas |
+|                    | de seus animais em dia.                 |
+|                                    
 |--------------------|------------------------------------|----------------------------------------|
-|Flávia Amaral       | Manter seu pet sempre bem cuidado.   | Para manter seu pet sempre saudável.            |
-|Flávia Amaral       | Alterar permissões                 | Permitir que possam administrar contas |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Flávia Amaral       | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
@@ -37,7 +39,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|--------------------|------------------------------------|----------------------------------------|
+|--------------------|--------------------  ----------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
