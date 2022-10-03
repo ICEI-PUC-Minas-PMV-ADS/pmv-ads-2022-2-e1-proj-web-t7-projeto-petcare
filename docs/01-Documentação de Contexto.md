@@ -45,17 +45,26 @@ Como objetivos específicos, podemos destacar:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Segundo Malar (2022) no ano de 2021 o faturamento do setor de produtos, serviços e comercio de animais de estimação foi de R$ 51,7 bilhões, com os serviços veterinários e Pet Care correspondendo com 14,6%, ou seja R$ 8,5 bilhões. Para o ano de 2022 é esperado um crescimento de 14% segundo estimativas do Instituto Pet Brasil - (IPB).
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Um segmento que tem crescido muito é o de plano de saúde pets. A empresa Meu Pet Club oferece reembolso aos clientes, sem a necessidade da clínica veterinária solicitada pelo tutor ser credenciada, cobrindo serviços de saúde veterinária, banho e tosa dentre outros. A Porto.Pet e Petlove&com são outras empresas deste segmento (MARTINEZ, 2022).
+
+Hoje os planos de saúde contam com apenas 1% dos donos de pet e por essa razão esse mercado tende a crescer nos próximos anos. Com isso existe uma expectativa muito positiva no incremento substancial no número de atendimentos médicos e serviços especializados para bem-estar dos pets (MARTINEZ, 2022). Facilidades nos processos de agendamento de serviços e consultas é um fator diferenciado na fidelização do usuário.
+
+A intensificação desta relação afetiva tem causado maior atenção do Poder Judiciário em relação a erros e negligência cometidos pelos profissionais de saúde animal (SLOWINSKI ET AL, 2016). Neste contexto o prontuário médico, os dados históricos de atendimento e vacinação dos animais rapidamente disponíveis pelo sistema passam a ser muito importantes. Muitas vezes estas informações podem comprovar a condição de saúde inicial do paciente, servindo para análise da evolução da doença como para defesa do profissional, caso ele venha ser responsabilizado por algum resultado diferente do esperado (PAZÓ; HEANCIO, 2014).
+
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público-alvo desta aplicação web front-end são os usuários externos e a equipe da clínica PetCare. 
+Os tutores que esperam a comodidade de poder contratar os diversos serviços da PetCare de acordo com a sua disponibilidade de tempo e ainda ter acesso às informações de seus Pets.
+
+Os médicos veterinários têm expectativa de se beneficiarem com informações que possam contribuir para o correto diagnóstico de seus pacientes, e os funcionários esperam poder contar com um sistema que os auxilie no melhor gerenciamento dos serviços oferecidos pela empresa. 
+
+
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
