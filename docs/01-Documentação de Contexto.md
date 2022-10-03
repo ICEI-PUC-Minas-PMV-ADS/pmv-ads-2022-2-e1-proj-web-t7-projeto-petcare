@@ -1,13 +1,25 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Segundo estudos recentes o convívio com animais de estimação estimula a produção de hormônios benéficos, como a ocitocina, que proporcionam as pessoas maior sensação de bem-estar físico contribuindo sobremaneira para a redução do estresse (RONCOLATO, 2020). A convivência com os pets proporciona momentos tranquilos nos quais as pessoas se desligam dos problemas cotidianos e estimula ainda um maior contato com a natureza.
+
+Muitos proprietários têm considerado seus animais como membros da família, desta maneira os direitos dos animais têm crescido muito e assuntos envolvendo a Medicina Legal Veterinária tem ganhado destaque na mídia e nos escritórios de advocacia (PAZÓ; HEANCIO, 2014).
+
+O isolamento proporcionado pela pandemia é um dos fatores responsáveis pelo crescimento mais recente do mercado de pets no Brasil e no mundo e também contribuiu para a mudança de patamar da importância que a sociedade tem dado aos animais de estimação (ÁVILA, 2021).
+
+Hoje, a intensidade da vida moderna exige muito tempo e atenção das pessoas e assim é muito importante para os tutores que o tempo gasto com seus pets fossem dedicados ao convívio e aos momentos de lazer, deixando a tecnologia cumprir o seu papel que é proporcionar maior qualidade de vida, conforto e comodidade as pessoas. 
+
+A grande disponibilidade de dispositivos eletrônicos, como computadores e os smartphone, cada vez com mais recursos conseguem cumprir bem esse papel. Hoje as tecnologias são capazes de nos proporcionam rapidez, agilidade e maior segurança na realização de tarefa como agendamento de serviços.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Os sistemas desenvolvidos e comercializados para suporte aos consultórios de medicina veterinária, como o da FPQSystem, são muito bons, mas focalizam aspectos administrativos e contábeis destes estabelecimentos apresentando algumas funcionalidades voltadas para o médico veterinário, mas não apresentam recursos voltados para o usuário.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Muitas vezes o envolvimento profissional dos tutores durante o horário comercial os impede de realizar o agendamento de consultas e serviços de bem-estar aos animais. É comum o atraso no esquema vacinal dos pets devido a falta de acompanhamento do cartão de vacinação dos animais.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Algumas vezes quando em viagens com seus pets os tutores se esquecem de levar impresso o Atestado de Boa Saúde de seus animais e desta maneira são impedidos de embarcar. Não existe nenhum aplicativo que consiga resolver esse problema.
+
+Os sistemas disponíveis no mercado também não proporcionam ao médico o histórico médico de atendimento dos animais com a descrição os problemas de saúde, controle de peso, tratamentos e vacinas já ministradas aos animais. Estas informações são importantes para o correto diagnóstico dos animais. 
+
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
