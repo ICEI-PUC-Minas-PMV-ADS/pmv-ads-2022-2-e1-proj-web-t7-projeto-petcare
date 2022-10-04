@@ -86,7 +86,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
             <td colspan="3"><strong>Frustrações:</strong> <ul><li>Tem dificuldades de saber quais cães serão tosados, sempre tem que ir à recepção para perguntar ao Gilberto. </li></td></tr>
     </tbody>
 </table>
-                                                                                                              |
+                                                                                                              
 
 
 ## Histórias de Usuários
@@ -118,14 +118,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O usuário deverá ser capaz de realizar agendamento on-line para consultas, <br> vacinação e serviços de banho/tosa. | ALTA | 
+|RF-001| O usuário deverá ser capaz de realizar agendamento on-line para consultas, vacinação <br> e serviços de banho/tosa. | ALTA | 
 |RF-002| O usuário deverá ser capaz de consultar o cartão de vacinação de seus pets.   | MÉDIA |
-|RF-003| O usuário deverá ser capaz de visualizar e fazer download do <strong>Atestado <br> de Boa Saúde</strong> de seus pets quando embarcar.| ALTA | 
-|RF-004| O funcionário da loja deverá ser capaz de realizar agendamento de <br>banho e/ou tosa, consultas médicas e vacinação.   | MÉDIA |
-|RF-005| O funcionário da loja deverá ser capaz de imprimir a lista de atendimentos <br> programados para o dia. | ALTA | 
+|RF-003| O usuário deverá ser capaz de visualizar e fazer download do <strong>Atestado de Boa Saúde</strong><br> de seus pets quando embarcar.| ALTA | 
+|RF-004| O funcionário da loja deverá ser capaz de realizar agendamento de banho e/ou tosa, consultas <br> médicas e vacinação.   | MÉDIA |
+|RF-005| O funcionário da loja deverá ser capaz de imprimir a lista de atendimentos programados para<br> o dia. | ALTA | 
 |RF-006| O médico deverá ser capaz de visualizar o histórico de consultas dos pets.   | MÉDIA |
-|RF-007| O funcionário da loja deverá ser capaz de imprimir o agendamento de <br> consultas, vacinação e serviços de banho/tosa. | ALTA | 
-|RF-008| O médico deverá ser capaz de cadastrar as informações obtidas nas consultas, <br> tais como: peso do animal, diagnóstico, receita médica e outros.   | MÉDIA |
+|RF-007| O funcionário da loja deverá ser capaz de imprimir o agendamento de consultas, vacinação e <br> serviços de banho/tosa. | ALTA | 
+|RF-008| O médico deverá ser capaz de cadastrar as informações obtidas nas consultas, tais como: peso <br> do animal, diagnóstico, receita médica e outros.   | MÉDIA |
 |RF-009| O médico deverá ser capaz visualizar o cartão de vacinação dos pets. | ALTA | 
 |RF-0010| O médico deverá ser capaz de atualizar o cartão de vacinação dos pets.  | MÉDIA |
 |RF-0011| O médico deverá ser capaz de gerar o Atestado de Boa Saúde dos pets.   | MÉDIA |
