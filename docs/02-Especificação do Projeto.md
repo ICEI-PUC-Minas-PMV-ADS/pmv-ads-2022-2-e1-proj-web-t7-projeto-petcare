@@ -34,8 +34,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Bruno Carrasco    | Ter mais controle sobre a programação de serviços diários.   | Poder dar mais atenção aos pets. |
 
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
@@ -51,9 +49,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| O usuário deverá ser capaz de realizar agendamento on-line para consultas, <br> vacinação e serviços de banho/tosa. | ALTA | 
+|RF-002| O usuário deverá ser capaz de consultar o cartão de vacinação de seus pets.   | MÉDIA |
+|RF-003| O usuário deverá ser capaz de visualizar e fazer download do <strong>Atestado <br> de Boa Saúde</strong> de seus pets quando embarcar.| ALTA | 
+|RF-004| O funcionário da loja deverá ser capaz de realizar agendamento de <br>banho e/ou <br> tosa, consultas médicas e vacinação.   | MÉDIA |
+|RF-005| O funcionário da loja deverá ser capaz de imprimir a lista de atendimentos <br> programados para o dia. | ALTA | 
+|RF-006| O médico deverá ser capaz de visualizar o histórico de consultas dos pets.   | MÉDIA |
+|RF-007| O funcionário da loja deverá ser capaz de imprimir o agendamento de <br> consultas, vacinação e serviços de banho/tosa. | ALTA | 
+|RF-008| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-009| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-0010| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-0011| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-0012| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 ### Requisitos não Funcionais
 
