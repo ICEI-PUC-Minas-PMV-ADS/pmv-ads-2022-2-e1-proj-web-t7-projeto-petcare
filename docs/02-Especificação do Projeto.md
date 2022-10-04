@@ -6,7 +6,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-<link href="src/table_style.css" rel="stylesheet">
+<link href="src/table_style.css">
 
 <table>
     <tbody>
