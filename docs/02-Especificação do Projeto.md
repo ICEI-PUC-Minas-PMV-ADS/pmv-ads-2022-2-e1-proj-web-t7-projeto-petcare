@@ -6,13 +6,11 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-<link href="src/table_style.css">
-
 <table>
     <tbody>
         <tr>
             <td rowspan=3> <img src="/docs/img/Flavia_3.png" width=100% height=100%> <br> Foto de Edward Cisnero em Unsplash </td>
-            <td colspan=2> <p class="usuario">Flávia Amaral</p> </td> 
+            <td colspan=2> <h1>Flávia Amaral</h1> </td> 
         </tr>
         <tr>
             <td rowspan=2><h4>Idade:</h4> 52 <br> <h4>Ocupação:</h4> Advogada, é sócia de um escritório que atua na área de direto tributário. Tem dois cachorros da raça Yorkshire. <br>Por causa da alta demanda de serviço no escritório tem pouco tempo para outras coisas importantes em sua vida.</td>
