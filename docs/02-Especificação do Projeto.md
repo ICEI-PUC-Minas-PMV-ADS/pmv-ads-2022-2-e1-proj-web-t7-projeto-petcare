@@ -6,14 +6,10 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-![Carrasco](/docs/img/Flavia.jpg)
-
-|                                     |                                                                 Flávia Amaral|
-| Foto de Edward Cisnero em Unsplash  | Ocupação: advogada, é sócia <br> de um escritório que atua na  área de diret |
-                                      | Objetivo:<br> Cuidar da saúde e bem-estar de <br> seus animais.              |
-                                      | Hobbies: <br> Academia; <br> Fazer caminhadas com os <br> seus filhotes;     |
-|                                                                                                                    |
-|                                                                                                                    |
+![Flavia](/docs/img/Flavia.jpg)
+![Carlos](/docs/img/Carlos.jpg)
+![Gilberto](/docs/img/Gilberto.jpg)
+![Carrasco](/docs/img/Carrasco.jpg)                                                                                                                |
 
 
 ## Histórias de Usuários
