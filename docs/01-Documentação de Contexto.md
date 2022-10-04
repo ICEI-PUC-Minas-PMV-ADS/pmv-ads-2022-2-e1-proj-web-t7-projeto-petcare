@@ -33,8 +33,8 @@ O objetivo geral deste trabalho é o desenvolvimento de uma aplicação Web Fron
 Como objetivos específicos, podemos destacar:
 <ul>
 <li>Fornecer funcionalidades que permitam ao usuário marcar consultas e serviços de banho e/ou tosa para seus pets;</li>
-<li>Informa ao usuário sobre a programação de vacinação de seus pets;</li>
-<li>Permitir a impressão das listas de atendimentos médico e de banho/tosa;</li>
+<li>Informar ao usuário sobre a programação de vacinação de seus pets;</li>
+<li>Imprimir listas de atendimentos médico e de banho/tosa;</li>
 <li>Permitir ao médico veterinário visualizar o histórico de atendimento médico do animal e cadastra as informações resultado das consultas realizadas no consultório;</li>
 <li>Armazenar e disponibilizar ao usuário o Atestados de Boa Saúde de seus animais (documento pdf);</li>
 </ul>
