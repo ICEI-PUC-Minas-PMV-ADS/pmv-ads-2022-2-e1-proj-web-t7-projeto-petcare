@@ -10,20 +10,20 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Flavia_3.png" width=70% height=70%> <br> Foto de Edward Cisnero em Unsplash </td>
-            <td colspan=2> Flávia Amaral </td>
+            <td rowspan=3> <img src="/docs/img/Flavia_3.png" width=100% height=100%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td colspan=2> <h1>Flávia Amaral</h1> </td>
         </tr>
         <tr>
-            <td rowspan=2>Idade: 52 <br> Ocupação: Advogada, é sócia de um escritório <br> que atua na área de direto tributário. Tem<br> dois cachorros da raça Yorkshire.<br> Por causa da alta demanda de serviço no escritório tem pouco<br>tempo para outras coisas<br> importantes em sua vida.</td>
-            <td><strong>Objetivo:</strong><br> Cuidar da saúde e bem-estar de seus animais.</td>
+            <td rowspan=2><h4>Idade:</h4> 52 <br> <h4>Ocupação:</h4> Advogada, é sócia de um escritório que atua na área de direto tributário. Tem dois cachorros da raça Yorkshire. <br>Por causa da alta demanda de serviço no escritório tem pouco tempo para outras coisas importantes em sua vida.</td>
+            <td><strong>Objetivo:</strong><br> <ul><li>Cuidar da saúde e bem-estar<br> de seus animais.</li></ul></td>
         </tr>
         <tr>
-            <td><strong>Hobbies:</strong><br> Academia;<br> Fazer ginastica;</td>
+            <td><strong>Hobbies:</strong> <ul><li>Academia;</li> <li>Fazer ginastica;</li></li></ul></td>
         </tr>
   	    <tr>
-            <td colspan="3"><strong>Motivação</strong><br> <ul><li>Prefere resolver todas as suas necessidades por meio de smartphone, no momento que puder;</li> <li>Poder realizar o agendamento de consultas e banho/tosa para meus pets em qualquer horário do dia;</li> <li>Quando embarcar ter a segurança de saber que o Atestado de Boa Saúde dos meus animais e as informações sobre as vacinas estarão disponíveis no site da clínica.</li></ul></td></tr>
+            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>Prefere resolver todas as suas necessidades por meio de smartphone, no momento que puder;</li> <li>Poder realizar o agendamento de consultas e banho/tosa para meus pets em qualquer horário do dia;</li> <li>Quando embarcar ter a segurança de saber que o Atestado de Boa Saúde dos meus animais e as informações sobre as vacinas estarão disponíveis no site da clínica.</li></ul></td></tr>
        <tr>
-            <td colspan="3"><strong>Frustrações:</strong><br> Semanalmente precisa ligar para a clínica veterinária e solicitar horário de banho para seus dois animais.<br> Não conseguir lembrar do calendário de vacinação dos pets.</td></tr>
+            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Semanalmente precisa ligar para a clínica veterinária e solicitar horário de banho para seus dois animais.</li><li> Não conseguir lembrar do calendário de vacinação dos pets.</li></td></tr>
     </tbody>
 </table>
 
