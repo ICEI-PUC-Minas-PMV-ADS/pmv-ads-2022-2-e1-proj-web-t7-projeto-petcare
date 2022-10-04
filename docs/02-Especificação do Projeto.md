@@ -50,7 +50,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Gilberto_2.png" width=100% height=100%> <br> Foto de Bruno Rodrigues em Unsplash </td>
+            <td rowspan=3> <img src="/docs/img/Gilberto_2.png" width=100% height=100%> <br> Foto de Andrei Damian em Unsplash </td>
             <td colspan=2> <h1>Gilberto Costa</h1> </td> 
         </tr>
         <tr>
@@ -64,6 +64,26 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
             <td colspan="3"><strong>Motivações:</strong><br> <ul><li>São muitos os atendimentos diários, listas atualizadas para os atendimentos médicos e serviços de banho/tosa iriam deixar o ambiente mais organizado.  </li></ul></td></tr>
         <tr>
             <td colspan="3"><strong>Frustrações:</strong> <ul><li>Pessoas reclamando de atraso no atendimento de seus animais, tanto para consultas quanto para banho e tosa.</li></td></tr>
+    </tbody>
+</table>
+
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=3> <img src="/docs/img/Carrasco_2.png" width=100% height=100%> <br> Foto de Irene Strong em Unsplash </td>
+            <td colspan=2> <h1>Gilberto Costa</h1> </td> 
+        </tr>
+        <tr>
+            <td rowspan=2><h4>Idade:</h4> 28 <br> <h4>Ocupação:</h4> Funcionário responsável pelo serviço de banho e tosa da PetCare.</td>
+            <td><strong>Objetivo:</strong><br> <ul><li>Otimizar os serviços de banho e tosa da PetCare.</li></ul></td>
+        </tr>
+        <tr>
+            <td><strong>Hobbies:</strong> <ul><li>Academia;</li> <li>Pesca;</li></li></ul></td>
+        </tr>
+  	    <tr>
+            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>Sente necessidade de uma lista com os horários e serviços de cada pet. </li></ul></td></tr>
+        <tr>
+            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Tem dificuldades de saber quais cães serão tosados, sempre tem que ir à recepção para perguntar ao Gilberto. </li></td></tr>
     </tbody>
 </table>
                                                                                                               |
