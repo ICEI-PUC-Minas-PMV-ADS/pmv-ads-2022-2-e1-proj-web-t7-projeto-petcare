@@ -6,7 +6,34 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-| <img src="/docs/img/Flavia_3.png"  width=50% height=50%> <br> Foto de Edward Cisnero em Unsplash |  Flávia Amaral ||
+<table>
+    <thead>
+        <tr>
+            <th>Layer 1</th>
+            <th>Layer 2</th>
+            <th>Layer 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4>L1 Name</td>
+            <td rowspan=2>L2 Name A</td>
+            <td>L3 Name A</td>
+        </tr>
+        <tr>
+            <td>L3 Name B</td>
+        </tr>
+        <tr>
+            <td rowspan=2>L2 Name B</td>
+            <td>L3 Name C</td>
+        </tr>
+        <tr>
+            <td>L3 Name D</td>
+        </tr>
+    </tbody>
+</table>
+
+| <img src="/docs/img/Flavia_3.png"  width=50% height=50%> <br> Foto de Edward Cisnero em Unsplash |    Flávia Amaral   ||
 |---|---|---|
 |   | Idade: 52 <br> Ocupação: Advogada, é sócia <br> de um escritório que atua na<br> área de direto tributário. Tem<br> dois cachorros da raça Yorkshire.<br> Por causa da alta demanda de<br> serviço no escritório tem pouco<br>tempo para outras coisas<br> importantes em sua vida. |<strong>Objetivo:</strong><br> Cuidar da saúde e bem-estar de seus animais|
 | |      |<strong>Hobbies:</strong><br> Academia;<br> Fazer ginastica;|
