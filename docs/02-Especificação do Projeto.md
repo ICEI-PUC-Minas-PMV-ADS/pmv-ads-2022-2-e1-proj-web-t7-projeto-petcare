@@ -26,20 +26,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`      |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|-----------------------------------------|----------------------------------------|
-|Flávia Amaral       | Manter seu pet sempre bem cuidado.      | Para manter seu pet sempre saudável.            |
-|Flávia Amaral       | Manter o esquema vacinal e vermifugação <br> de seus animais em dia.| Permitir que possam administrar contas |                      
-|--------------------|------------------------------------|----------------------------------------|
-|Flávia Amaral       | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|--------------------|--------------------  ----------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Flávia Amaral | Manter seu pet sempre bem cuidado.      | Para manter seu pet sempre saudável.    |
+|Flávia Amaral | Manter o esquema vacinal e vermifugação <br> de seus animais em dia.| Evitar que seus pets se contaminem no contato <br> com outros cães ou fezes de animais. |                      
+|Flávia Amaral    | Ter segurança que ao viajar não vou ter <br> problemas com a documentação dos meus pets. | Para viajar tranquila. |
+|Dr. Carlos Gomes | Prestar bom atendimento aos seus clientes.  | Para aumentar o nível de fidelização dos clientes. |
+|Gilberto Costa  | Ter mais controle sobre a programação de <br> serviços diários. | Poder dar mais atenção aos clientes. |
+|Bruno Carrasco    | Ter mais controle sobre a programação de serviços diários.   | Poder dar mais atenção aos pets. |
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
