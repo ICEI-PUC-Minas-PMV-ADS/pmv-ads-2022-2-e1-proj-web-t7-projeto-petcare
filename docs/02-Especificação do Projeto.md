@@ -6,7 +6,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-| ![](/docs/img/Flavia_2.jpg = 250x250)<br> Foto de Edward Cisnero em Unsplash |  Flávia Amaral ||
+| ![](/docs/img/Flavia_2.png) <br> Foto de Edward Cisnero em Unsplash |  Flávia Amaral ||
 |---|---|---|
 |   | Idade: 52 <br> Ocupação: Advogada, é sócia <br> de um escritório que atua na<br> área de direto tributário. Tem<br> dois cachorros da raça Yorkshire.<br> Por causa da alta demanda de<br> serviço no escritório tem pouco<br>tempo para outras coisas<br> importantes em sua vida. |<strong>Objetivo:</strong><br> Cuidar da saúde e bem-estar de seus animais|
 | |      |<strong>Hobbies:</strong><br> Academia;<br> Fazer ginastica;|
