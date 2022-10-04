@@ -28,6 +28,28 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 
 ![Flavia](/docs/img/Flavia.jpg)
+
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=3> <img src="/docs/img/Carlos_2.png" width=100% height=100%> <br> Foto de Bruno Rodrigues em Unsplash </td>
+            <td colspan=2> <h1>Dr. Carlos Gomes</h1> </td> 
+        </tr>
+        <tr>
+            <td rowspan=2><h4>Idade:</h4> 42 <br> <h4>Ocupação:</h4> Um dos médicos veterinários sócio da PetCare. Também faz atendimento clínico.</td>
+            <td><strong>Objetivo:</strong><br> <ul><li>Realizar bons atendimentos médicos;</li><li>Aumentar o número de clientes da clínica;</li></ul></td>
+        </tr>
+        <tr>
+            <td><strong>Hobbies:</strong> <ul><li>Academia;</li> <li>Yoga;</li></li></ul></td>
+        </tr>
+  	    <tr>
+            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>A qualidade prestada pelo sistema de atendimento vai aumentar a fidelização dos clientes na clínica; </li></ul></td></tr>
+        <tr>
+            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Muitas vezes quando atendo um animal não tenho informações disponíveis sobre o histórico de saúde dele, nem dos atendimentos anteriores recebidos por ele aqui na clínica.</li></td></tr>
+    </tbody>
+</table>
+
+
 ![Carlos](/docs/img/Carlos.jpg)
 ![Gilberto](/docs/img/Gilberto.jpg)
 ![Carrasco](/docs/img/Carrasco.jpg)                                                                                                                |
