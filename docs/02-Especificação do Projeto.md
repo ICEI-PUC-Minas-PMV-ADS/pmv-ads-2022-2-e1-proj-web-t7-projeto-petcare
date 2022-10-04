@@ -6,39 +6,27 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
+
 <table>
-    <thead>
-        <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
+            <td rowspan=3> <img src="/docs/img/Flavia_3.png" width=70% height=70%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td colspan=2> Flávia Amaral </td>
         </tr>
         <tr>
-            <td>L3 Name B</td>
+            <td rowspan=2>Idade: 52 <br> Ocupação: Advogada, é sócia de um escritório <br> que atua na área de direto tributário. Tem<br> dois cachorros da raça Yorkshire.<br> Por causa da alta demanda de serviço no escritório tem pouco<br>tempo para outras coisas<br> importantes em sua vida.</td>
+            <td>L3 <strong>Objetivo:</strong><br> Cuidar da saúde e bem-estar de seus animais C</td>
         </tr>
         <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
+            <td><strong>Hobbies:</strong><br> Academia;<br> Fazer ginastica;</td>
         </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
+  	  <tr>
+        <td colspan="3"><strong>Motivação</strong><br> Prefere resolver todas as suas necessidades por meio de smartphone, no momento que puder;<br> Poder realizar o agendamento de consultas e banho/tosa para meus pets em qualquer horário do dia.<br> Quando embarcar ter a segurança de saber que o Atestado de Boa Saúde dos meus animais e as informações sobre as vacinas estarão disponíveis no site da clínica.</td></tr>
+       <tr>
+        <td colspan="3"><strong>Frustrações:</strong><br> Semanalmente precisa ligar para a clínica veterinária e solicitar horário de banho para seus dois animais.<br> Não conseguir lembrar do calendário de vacinação dos pets.</td></tr>
     </tbody>
 </table>
 
-| <img src="/docs/img/Flavia_3.png"  width=50% height=50%> <br> Foto de Edward Cisnero em Unsplash |    Flávia Amaral   ||
-|---|---|---|
-|   | Idade: 52 <br> Ocupação: Advogada, é sócia <br> de um escritório que atua na<br> área de direto tributário. Tem<br> dois cachorros da raça Yorkshire.<br> Por causa da alta demanda de<br> serviço no escritório tem pouco<br>tempo para outras coisas<br> importantes em sua vida. |<strong>Objetivo:</strong><br> Cuidar da saúde e bem-estar de seus animais|
-| |      |<strong>Hobbies:</strong><br> Academia;<br> Fazer ginastica;|
-|<strong>Motivação</strong><br> Prefere resolver todas as suas necessidades por meio de smartphone, no momento que puder;<br> Poder realizar o agendamento de consultas e banho/tosa para meus pets em qualquer horário do dia.<br> Quando embarcar ter a segurança de saber que o Atestado de Boa Saúde dos meus animais e as informações sobre as vacinas estarão disponíveis no site da clínica.|||
-|<strong>Frustrações:</strong><br> Semanalmente precisa ligar para a clínica veterinária e solicitar horário de banho para seus dois animais.<br> Não conseguir lembrar do calendário de vacinação dos pets.|||
 
 ![Flavia](/docs/img/Flavia.jpg)
 ![Carlos](/docs/img/Carlos.jpg)
