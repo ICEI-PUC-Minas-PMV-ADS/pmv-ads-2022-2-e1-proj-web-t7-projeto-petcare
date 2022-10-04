@@ -135,12 +135,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O site deverá permitir o usuário realizar seu cadastro. | MÉDIA | 
-|RNF-002| O site deverá validar o cadastramento dos usuários. |  BAIXA | 
-|RNF-003|O site deve disponibilizar a agenda de banho/tosa e <br>consultas para próxima semana. |  BAIXA |
-|RNF-004| O site deve identificar na base de dados a data da <br>próxima vacinação dos pets. |  BAIXA |
-|RNF-005| O site deve enviar notificação aos tutores quando se <br> aproximar a data da próxima etapa de vacinação. |  BAIXA |
-|RNF-006| O sistema deverá gerar a fatura com o custo total dos <br> procedimentos médicos.|  BAIXA |
+|RNF-001| O site deverá permitir o usuário realizar seu cadastro. | ALTA | 
+|RNF-002| O site deverá validar o cadastramento dos usuários. |  ALTA | 
+|RNF-003|O site deve disponibilizar a agenda de banho/tosa e consultas para próxima semana. |  ALTA |
+|RNF-004| O site deve identificar na base de dados a data da próxima vacinação dos pets. |  ALTA |
+|RNF-005| O site deve enviar notificação aos tutores quando se aproximar a data da próxima <br> etapa de vacinação. |  ALTA |
+|RNF-006| O sistema deverá gerar a fatura com o custo total dos procedimentos médicos.|  ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -163,7 +163,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar <br>a data de 01/12/2022|
+|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 01/12/2022|
 |02| O aplicativo deve se restringir às tecnologias básicas da Web no Front-end.  |
 |03| A equipe não pode subcontratar o desenvolvimento do trabalho.  |
 
