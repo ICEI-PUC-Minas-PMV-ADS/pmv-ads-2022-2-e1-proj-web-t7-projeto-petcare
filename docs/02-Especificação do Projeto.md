@@ -6,12 +6,13 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-|                                     |                                                                                Flávia Amaral|
-| Foto de Edward Cisnero em Unsplash  |  Ocupação: advogada, é sócia <br> de um escritório que atua na <br> área de direto tributário. Tem <br> dois cachorros da raça                        | Objetivo:<br> Cuidar da saúde e bem-estar de <br> seus animais. |
-|                                     |                           | Hobbies: <br> Academia; <br> Fazer caminhadas com os <br> seus filhotes;
-              |
-|                                                               |
-|                                                               |
+|                                     |                                                                 Flávia Amaral|
+| Foto de Edward Cisnero em Unsplash  | Ocupação: advogada, é sócia <br> de um escritório que atua na  área de diret |
+                                      | Objetivo:<br> Cuidar da saúde e bem-estar de <br> seus animais.              |
+                                      | Hobbies: <br> Academia; <br> Fazer caminhadas com os <br> seus filhotes;     |
+|                                                                                                                    |
+|                                                                                                                    |
+
 
 ## Histórias de Usuários
 
