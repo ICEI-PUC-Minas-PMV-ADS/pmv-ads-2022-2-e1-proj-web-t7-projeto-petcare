@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# PROJETO PETCARE
 
-`CURSO`
+`CURSO: TECNÓLOGO EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`DISCIPLINA: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`SEMESTRE: 2/2022`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
 * Dionísio Tadeu de Azevedo
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Frederico Augusto Marques
+* Gleisson Martins Soares
+* Igor Daniel Dias Malvino
+* Maxwell de Souza Pedroza
+* Vagner de Oliveira Florencio
 
 ## Orientador
 
-* Nome completo do professor 1
+* KUTOVA
 
 ## Instruções de utilização
 
