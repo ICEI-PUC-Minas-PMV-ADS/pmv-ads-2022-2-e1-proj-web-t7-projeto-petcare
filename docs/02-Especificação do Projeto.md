@@ -6,7 +6,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-![Carrasco](/docs/img/Carrasco.jpg)
+![Carrasco](/docs/img/Flavia.jpg)
 
 |                                     |                                                                 Flávia Amaral|
 | Foto de Edward Cisnero em Unsplash  | Ocupação: advogada, é sócia <br> de um escritório que atua na  área de diret |
