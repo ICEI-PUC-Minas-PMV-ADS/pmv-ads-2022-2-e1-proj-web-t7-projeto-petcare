@@ -15,15 +15,15 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
         </tr>
         <tr>
             <td rowspan=2>Idade: 52 <br> Ocupação: Advogada, é sócia de um escritório <br> que atua na área de direto tributário. Tem<br> dois cachorros da raça Yorkshire.<br> Por causa da alta demanda de serviço no escritório tem pouco<br>tempo para outras coisas<br> importantes em sua vida.</td>
-            <td>L3 <strong>Objetivo:</strong><br> Cuidar da saúde e bem-estar de seus animais C</td>
+            <td><strong>Objetivo:</strong><br> Cuidar da saúde e bem-estar de seus animais.</td>
         </tr>
         <tr>
             <td><strong>Hobbies:</strong><br> Academia;<br> Fazer ginastica;</td>
         </tr>
-  	  <tr>
-        <td colspan="3"><strong>Motivação</strong><br> Prefere resolver todas as suas necessidades por meio de smartphone, no momento que puder;<br> Poder realizar o agendamento de consultas e banho/tosa para meus pets em qualquer horário do dia.<br> Quando embarcar ter a segurança de saber que o Atestado de Boa Saúde dos meus animais e as informações sobre as vacinas estarão disponíveis no site da clínica.</td></tr>
+  	    <tr>
+            <td colspan="3"><strong>Motivação</strong><br> <ul><li>Prefere resolver todas as suas necessidades por meio de smartphone, no momento que puder;</li> <li>Poder realizar o agendamento de consultas e banho/tosa para meus pets em qualquer horário do dia;</li> <li>Quando embarcar ter a segurança de saber que o Atestado de Boa Saúde dos meus animais e as informações sobre as vacinas estarão disponíveis no site da clínica.</li></ul></td></tr>
        <tr>
-        <td colspan="3"><strong>Frustrações:</strong><br> Semanalmente precisa ligar para a clínica veterinária e solicitar horário de banho para seus dois animais.<br> Não conseguir lembrar do calendário de vacinação dos pets.</td></tr>
+            <td colspan="3"><strong>Frustrações:</strong><br> Semanalmente precisa ligar para a clínica veterinária e solicitar horário de banho para seus dois animais.<br> Não conseguir lembrar do calendário de vacinação dos pets.</td></tr>
     </tbody>
 </table>
 
