@@ -31,7 +31,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Flávia Amaral    | Ter segurança que ao viajar não vou ter <br> problemas com a documentação dos meus pets. | Para viajar tranquila. |
 |Dr. Carlos Gomes | Prestar bom atendimento aos seus clientes.  | Para aumentar o nível de fidelização dos clientes. |
 |Gilberto Costa  | Ter mais controle sobre a programação de <br> serviços diários. | Poder dar mais atenção aos clientes. |
-|Bruno Carrasco    | Ter mais controle sobre a programação de serviços diários.   | Poder dar mais atenção aos pets. |
+|Bruno Carrasco    | Ter mais controle sobre a programação de <br> serviços diários.   | Poder dar mais atenção aos pets. |
 
 
 > **Links Úteis**:
@@ -52,22 +52,26 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| O usuário deverá ser capaz de realizar agendamento on-line para consultas, <br> vacinação e serviços de banho/tosa. | ALTA | 
 |RF-002| O usuário deverá ser capaz de consultar o cartão de vacinação de seus pets.   | MÉDIA |
 |RF-003| O usuário deverá ser capaz de visualizar e fazer download do <strong>Atestado <br> de Boa Saúde</strong> de seus pets quando embarcar.| ALTA | 
-|RF-004| O funcionário da loja deverá ser capaz de realizar agendamento de <br>banho e/ou <br> tosa, consultas médicas e vacinação.   | MÉDIA |
+|RF-004| O funcionário da loja deverá ser capaz de realizar agendamento de <br>banho e/ou tosa, consultas médicas e vacinação.   | MÉDIA |
 |RF-005| O funcionário da loja deverá ser capaz de imprimir a lista de atendimentos <br> programados para o dia. | ALTA | 
 |RF-006| O médico deverá ser capaz de visualizar o histórico de consultas dos pets.   | MÉDIA |
 |RF-007| O funcionário da loja deverá ser capaz de imprimir o agendamento de <br> consultas, vacinação e serviços de banho/tosa. | ALTA | 
-|RF-008| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-009| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-0010| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-0011| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-0012| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-008| O médico deverá ser capaz de cadastrar as informações obtidas nas consultas, <br> tais como: peso do animal, diagnóstico, receita médica e outros.   | MÉDIA |
+|RF-009| O médico deverá ser capaz visualizar o cartão de vacinação dos pets. | ALTA | 
+|RF-0010| O médico deverá ser capaz de atualizar o cartão de vacinação dos pets.  | MÉDIA |
+|RF-0011| O médico deverá ser capaz de gerar o Atestado de Boa Saúde dos pets.   | MÉDIA |
+|RF-0012| O médico deverá ao médico imprimir a receita médica. | MÉDIA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O site deverá permitir o usuário realizar seu cadastro. | MÉDIA | 
+|RNF-002| O site deverá validar o cadastramento dos usuários. |  BAIXA | 
+|RNF-003|O site deve disponibilizar a agenda de banho/tosa e <br>consultas para próxima semana. |  BAIXA |
+|RNF-004| O site deve identificar na base de dados a data da <br>próxima vacinação dos pets. |  BAIXA |
+|RNF-005| O site deve enviar notificação aos tutores quando se <br> aproximar a data da próxima etapa de vacinação. |  BAIXA |
+|RNF-006| O sistema deverá gerar a fatura com o custo total dos <br> procedimentos médicos.|  BAIXA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -90,8 +94,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar <br>a data de 01/12/2022|
+|02| O aplicativo deve se restringir às tecnologias básicas da Web no Front-end.  |
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho.  |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
