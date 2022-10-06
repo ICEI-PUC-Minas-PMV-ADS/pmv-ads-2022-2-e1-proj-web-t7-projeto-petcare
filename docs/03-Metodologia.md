@@ -3,6 +3,17 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
+Nesta etapa do trabalho serão definidos os recusos e meios para desenvolvimento do projeto Web Front-End. Inicialmente será definida a equipe de trabalho composta pelo <strong>Product Owner</strong>, responsável por definir o que é realmente importante constar no projeto; pelo <strong>Scrum Mastes</strong>, responsável pela gestão do projeto, organização e distribuição das tarefas e gestão do Github; <strong>Design</strong>, responsável pelo desenho da interface; e <strong>Desenvolvedores</strong>, responsáveis pela implementação dos códigos e realização dos testes. 
+
+A equipe está organizada da seguinte maneira:
+
+Product Owner:
+Scrum Master:
+Design:
+Desenvolvedores:
+
+Para 
+
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
 ## Controle de Versão
