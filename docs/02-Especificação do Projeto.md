@@ -9,7 +9,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Flavia_3.png" width=100% height=100%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td rowspan=3> <img src="/docs/img/Flavia_3.png" width=70% height=70%> <br> Foto de Edward Cisnero em Unsplash </td>
             <td colspan=2> <h1>Flávia Amaral</h1> </td> 
         </tr>
         <tr>
@@ -30,7 +30,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Carlos_2.png" width=100% height=100%> <br> Foto de Bruno Rodrigues em Unsplash </td>
+            <td rowspan=3> <img src="/docs/img/Carlos_2.png" width=70% height=70%> <br> Foto de Bruno Rodrigues em Unsplash </td>
             <td colspan=2> <h1>Dr. Carlos Gomes</h1> </td> 
         </tr>
         <tr>
@@ -50,7 +50,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Gilberto_2.png" width=100% height=100%> <br> Foto de Andrei Damian em Unsplash </td>
+            <td rowspan=3> <img src="/docs/img/Gilberto_2.png" width=70% height=70%> <br> Foto de Andrei Damian em Unsplash </td>
             <td colspan=2> <h1>Gilberto Costa</h1> </td> 
         </tr>
         <tr>
@@ -70,7 +70,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 <table>
     <tbody>
         <tr>
-            <td rowspan=3> <img src="/docs/img/Carrasco_2.png" width=100% height=100%> <br> Foto de Irene Strong em Unsplash </td>
+            <td rowspan=3> <img src="/docs/img/Carrasco_2.png" width=70% height=70%> <br> Foto de Irene Strong em Unsplash </td>
             <td colspan=2> <h1>Gilberto Costa</h1> </td> 
         </tr>
         <tr>
