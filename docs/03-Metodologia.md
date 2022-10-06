@@ -4,9 +4,13 @@
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
 
-Inicialmente será definida a equipe de trabalho composta pelo <strong>Product Owner</strong>, responsável por definir o que é realmente importante constar no projeto; pelo <strong>Scrum Mastes</strong>, responsável pela gestão do projeto, organização e distribuição das tarefas e gestão do Github; <strong>Design</strong>, responsável pelo desenho da interface; e <strong>Desenvolvedores</strong>, responsáveis pela implementação dos códigos e realização dos testes. 
+A metodologia utilizada para desenvolvimento deste projeto é constituída por três seções: definição da Equipe de Trabalho, Ferramentas e documentação do Processo construtivo. 
 
-A seguir serão definidos os recursos e meios para desenvolvimento do projeto Web Front-End. Serão utilizados <strong>repositórios</strong>, as <strong>ferramentas de Wiewframe</strong> e <strong>ferrametnas de comunicação</strong>.
+Inicialmente foi definida a equipe de trabalho composta pelo <strong>Product Owner</strong>, responsável por definir o que é realmente importante constar no projeto; pelo <strong>Scrum Mastes</strong>, responsável pela gestão do projeto, organização e distribuição das tarefas e gestão do Github; <strong>Design</strong>, responsável pelo desenho da interface; e <strong>Desenvolvedores</strong>, responsáveis pela implementação dos códigos e realização dos testes. 
+
+A seguir foram definidos os recursos e meios para desenvolvimento do projeto Web Front-End. Foram identifcados os <strong>repositórios</strong>, as <strong>ferramentas de wireframe</strong> e <strong>ferramentas de comunicação</strong>.
+
+Fechando a metodologia foi <b>realizado o registro</b> do desenvolvimento do projeto através da elaboração do Processo. Neste documento foi registrado o Product Backlog ou lista de todos as tarefas necessárias, elaboradas e entregaveis no projeto e também as Sprint acordadas que são cada uma das etapas de trabalho que compoem o desenvolvimento da aplicação. Cada etapa desdobrou em itens que por sua gerou tarefas. Estas tarefas foram informadas no Planejamento, quem ficou responsável pela execução das tarefas foi identificado na Execução, bem como o feedback sobre o que deu ou não certo, quais as ferramentas utilizadas e o que pode ser melhorado. Por último nas Evidências foram registrados o que foi produzido pelo grupo, mesmo que não produto final.
 
 
 ## Equipe de Trabalho
