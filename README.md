@@ -13,7 +13,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Dionísio Tadeu de Azevedo
 * Frederico Augusto Marques
 * Gleisson Martins Soares
-* Igor Daniel Dias Malvino
 * Maxwell de Souza Pedroza
 * Vagner de Oliveira Florencio
 
