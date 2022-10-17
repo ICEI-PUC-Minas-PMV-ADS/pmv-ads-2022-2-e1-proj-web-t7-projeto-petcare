@@ -88,7 +88,42 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
             <li><b>Hospedagem - </b> Tarefas: <i>Definição da plataforma para hospedagem do site do projeto; </i> (Dionísio, Vagner e Max)</li>
            </ul>
      </ol><br>
-  <li>Sprint 3: .............</li>
+  <li>Sprint 3: Desenvolvimento da solução - Parte 1 </li>
+     <ol>
+      <li><b>Template padrão do Site</b> (Max e Vagner)</li>
+          <ul>
+           <li>....</li>
+           <li>....</li>
+          </ul>
+      <li><b>Funcionalidades do Sistema</b> (Max e Vagner)</li>
+          <ul>
+           <li>....</li>
+           <li>....</li>
+          </ul>
+     </ol><br>
+ 
+   <li>Sprint 4: Desenvolvimento da solução - Parte 2 </li>
+     <ol>
+      <li><b>Plano de Teste de Software</b> (Frederico e Gleisson)</li>
+          <ul>
+           <li>....</li>
+           <li>....</li>
+          </ul>
+      <li><b>Registro de Teste de Software</b> (Frederico e Gleisson)</li>
+          <ul>
+           <li>....</li>
+           <li>....</li>
+          </ul>
+     </ol><br>
+ 
+   <li>Sprint 5: Implantação de Apresentação da Solução </li>
+     <ol>
+      <li><b>Elaboração da Apresentação</b></li>
+          <ul>
+           <li>....</li>
+           <li>....</li>
+          </ul>
+     </ol>
 </ol>
 
  <!--
