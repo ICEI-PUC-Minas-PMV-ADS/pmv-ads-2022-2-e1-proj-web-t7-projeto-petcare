@@ -8,10 +8,11 @@ A metodologia utilizada para desenvolvimento deste projeto é constituída por t
 
 Inicialmente foi definida a equipe de trabalho composta pelo <strong>Product Owner</strong>, responsável por definir o que é realmente importante constar no projeto; pelo <strong>Scrum Mastes</strong>, responsável pela gestão do projeto, organização e distribuição das tarefas e gestão do Github; <strong>Design</strong>, responsável pelo desenho da interface; e <strong>Desenvolvedores</strong>, responsáveis pela implementação dos códigos e realização dos testes. 
 
-A seguir foram definidos os recursos e meios para desenvolvimento do projeto Web Front-End. Foram identifcados os <strong>repositórios</strong>, as <strong>ferramentas de wireframe</strong> e <strong>ferramentas de comunicação</strong>.
+A seguir foram definidos os recursos e meios para desenvolvimento do projeto Web Front-End. Foram identifcados os <strong>repositórios de código fonte e documentos</strong>, as <strong>ferramentas de design e wireframe</strong>, e as <strong>ferramentas de desenvolvimento da aplicação</strong>.
 
-Fechando a metodologia foi <b>realizado o registro</b> do desenvolvimento do projeto através da elaboração do Processo. Neste documento foi registrado o Product Backlog ou lista de todos as tarefas necessárias, elaboradas e entregaveis no projeto e também as Sprint acordadas que são cada uma das etapas de trabalho que compoem o desenvolvimento da aplicação. Cada etapa desdobrou em itens que por sua gerou tarefas. Estas tarefas foram informadas no Planejamento, quem ficou responsável pela execução das tarefas foi identificado na Execução, bem como o feedback sobre o que deu ou não certo, quais as ferramentas utilizadas e o que pode ser melhorado. Por último nas Evidências foram registrados o que foi produzido pelo grupo, mesmo que não produto final.
+Fechando a metodologia foi realizado o registro do desenvolvimento do projeto através da elaboração do <b>Processo</b>. Neste documento foi registrado o Product Backlog ou lista de todos as tarefas necessárias, elaboradas e entregaveis no projeto e também as Sprints acordadas que são cada uma das etapas de trabalho que compoem o desenvolvimento da aplicação. Cada etapa, por sua vez, desdobraram em itens que geraram tarefas. 
 
+No item processo são então detalhados os Sprints, os itens ou entregáveis e as tarefas. São identificados ainda os responsáveis por cada etapa de trabalho.  e os responsáveis 
 
 ## Equipe de Trabalho
 
@@ -30,8 +31,9 @@ Os artefatos do projetos serão desenvolvidos a partir de diversas plataformas, 
 |--------------------|-----------------------------------------|----------------------------------------|
 |Repositório de Código Fonte    | Github | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare |
 |Documentos do Projeto | Google Drive  | https://docs.google.com/folder/d/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24 |
-|Projeto de Interface e Wireframe | AutoCad 2020 | https://docs.google.com/folder/d/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24 |
+|Projeto de Interface e Wireframe | AutoCad 2020 |  |
 |Gerenciamento do Projeto   | Github Project   | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/193 |
+|Desenvolvimento da aplicação   | Visual Studio Code  |  |
 
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
@@ -127,6 +129,8 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 </ol>
 
  <!--
+
+As tarefas e os responsáveis por executa-las informadas no Planejamento, quem ficou responsável pela execução das tarefas foi identificado na Execução, bem como o feedback sobre o que deu ou não certo, quais as ferramentas utilizadas e o que pode ser melhorado. Por último nas Evidências foram registrados o que foi produzido pelo grupo, mesmo que não produto final.
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
