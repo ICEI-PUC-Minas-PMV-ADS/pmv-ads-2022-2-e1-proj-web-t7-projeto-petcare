@@ -62,8 +62,8 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
       <ol>
        <li>Metodologia</li>
            <ul>
-            <li><b>Equipe de Trabalho - </b> Tarefas: <i>Definição de ScrumMaster; Design; e Desenvolvedores;</i> - (Dionísio)</li>
-            <li><b>Ferramentas - </b> Tarefas: <i>Identificação de: repositório de código fonte; armazenamento de documentos de projeto; ferramentas de elaboração de design e wireframe; gerênciamento de projeto; desenvolvimento da aplicação;</i> (Dionísio)</li>
+            <li><b>Equipe de Trabalho - </b> Tarefas: <i>Definição de ScrumMaster; Design; e Desenvolvedores;</i> - (Dionísio, Vagner e Max)</li>
+            <li><b>Ferramentas - </b> Tarefas: <i>Identificação de: repositório de código fonte; armazenamento de documentos de projeto; ferramentas de elaboração de design e wireframe; gerênciamento de projeto; desenvolvimento da aplicação;</i> (Vagner, Max e Dionisio)</li>
            </ul>
        <li>Projeto de Interface</li>
            <ul>
@@ -91,7 +91,7 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
   <li>Sprint 3: .............</li>
 </ol>
 
- 
+ <!--
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
@@ -161,3 +161,5 @@ Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justific
 > **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
 > - [Slack](https://slack.com/)
 > - [Github](https://github.com/)
+
+-->
