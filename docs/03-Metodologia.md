@@ -30,13 +30,40 @@ Os artefatos do projetos serão desenvolvidos a partir de diversas plataformas, 
 |--------------------|-----------------------------------------|----------------------------------------|
 |Repositório de Código Fonte    | Github | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare |
 |Documentos do Projeto | Google Drive  | https://docs.google.com/folder/d/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24 |
-|Projeto de Interface e Wireframe | Autoca 2020 | https://docs.google.com/folder/d/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24 |
-|Gerenciamento do Projeto   | Github Project   | Poder dar mais atenção aos pets. |
+|Projeto de Interface e Wireframe | AutoCad 2020 | https://docs.google.com/folder/d/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24 |
+|Gerenciamento do Projeto   | Github Project   | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/193 |
 
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
-## Controle de Versão
+## Processo
+
+### Projeto PetCare
+<ol>
+ <li> Sprint 1: Análise do problema e especificação dos requisitos</li>
+      <ol>
+       <li>Documentação de Contexto</li>
+           <ul>
+            <li><b>Problema - </b> Tarefas: <i>Entrevistar com o Product Owner;  Síntetisar as informações; Elaborar texto;</i> - (Dionísio, Vagner e Max)</li>
+            <li><b>Objetivos - </b> Tarefas: <i>Entrevistas com o Procuct Owner; Pesquisa de aplicativos disponiveis no mercado;  Definição dos objetivos gerais; <br> 
+             Definição dos objetivos específicos;</i> (Dionísio, Vagner e Max)</li>
+            <li><b>Justificativa - </b> Tarefas: <i>Pesquisa na Web; Síntese das informações;</i> (Dionísio, Vagner e Max)</li>
+            <li><b>Público Alvo - </b> Tarefas: <i>Identificar o público alvo da aplicação;</i> (Dionísio, Vagner e Max)</li>
+           </ul>
+       <li>Especificação do projeto</li>
+           <ul>
+            <li><b>Personas - </b> Tarefas: <i>Entrevistar um usuário típico, funcionário do atendimento e um médico;</i> - (Dionísio)</li>
+            <li><b>Histórias de usuários - </b> Tarefas: <i>Identifcar quais os desejos do usuário em relação aos pets que podem ser atendidos pelo projeto. Por que?; Identifcar quais os desejos do funcionário e médico que podem ser atendidos pelo projeto. Por que?; </i> (Dionísio, Vagner e Max)</li>
+            <li><b>Requisitos Funcionais - </b> Tarefas: <i>Identificar quais serviços podem ser implementados para comodidade e fidelização dos usuários; Identifficar funcionalidades que podem otimizar o trabalho do funcionário. Identifcar funcionalidades que atendam as necessidades do médico. </i> (Dionísio, Vagner e Max)</li>
+            <li><b>Requisitos Não Funcionais- </b> Tarefas: <i>Identifcar as rotinas que deverão ser implementadas no sistema para atender ao usuário, funcionario e médico;</i> (Dionísio, Vagner e Max)</li>
+           </ul>
+      </ol>
+ <li></li>
+ <li></li>
+ <li></li>
+</ol>
+
+ 
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
