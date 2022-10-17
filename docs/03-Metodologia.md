@@ -54,13 +54,41 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
            <ul>
             <li><b>Personas - </b> Tarefas: <i>Entrevistar um usuário típico, funcionário do atendimento e um médico;</i> - (Dionísio)</li>
             <li><b>Histórias de usuários - </b> Tarefas: <i>Identifcar quais os desejos do usuário em relação aos pets que podem ser atendidos pelo projeto. Por que?; Identifcar quais os desejos do funcionário e médico que podem ser atendidos pelo projeto. Por que?; </i> (Dionísio, Vagner e Max)</li>
-            <li><b>Requisitos Funcionais - </b> Tarefas: <i>Identificar quais serviços podem ser implementados para comodidade e fidelização dos usuários; Identifficar funcionalidades que podem otimizar o trabalho do funcionário. Identifcar funcionalidades que atendam as necessidades do médico. </i> (Dionísio, Vagner e Max)</li>
+            <li><b>Requisitos Funcionais - </b> Tarefas: <i>Identificar quais serviços podem ser implementados para comodidade e fidelização dos usuários; Identifficar funcionalidades que podem otimizar o trabalho do funcionário. Identifcar funcionalidades que atendam as necessidades do médico; </i> (Dionísio, Vagner e Max)</li>
             <li><b>Requisitos Não Funcionais- </b> Tarefas: <i>Identifcar as rotinas que deverão ser implementadas no sistema para atender ao usuário, funcionario e médico;</i> (Dionísio, Vagner e Max)</li>
            </ul>
-      </ol>
- <li></li>
- <li></li>
- <li></li>
+      </ol><br>
+ <li>Sprint 2: Projeto da solução</li>
+      <ol>
+       <li>Metodologia</li>
+           <ul>
+            <li><b>Equipe de Trabalho - </b> Tarefas: <i>Definição de ScrumMaster; Design; e Desenvolvedores;</i> - (Dionísio)</li>
+            <li><b>Ferramentas - </b> Tarefas: <i>Identificação de: repositório de código fonte; armazenamento de documentos de projeto; ferramentas de elaboração de design e wireframe; gerênciamento de projeto; desenvolvimento da aplicação;</i> (Dionísio)</li>
+           </ul>
+       <li>Projeto de Interface</li>
+           <ul>
+            <li><b>Fluxo do Usuário - </b> Tarefas: <i>Elaboração do diagram de interação de telas;</i> - (Dionísio)</li>
+            <li><b>Wireframe - </b> Tarefas: <i>Definição do layout de: </i> (Dionísio, Vagner e Max)</li>
+               <ul>
+                <li>Tela - Home-Page</li>
+                <li>Tela - Agendamento/Usuário</li>
+                <li>Tela - Area do Cliente/Usuário</li>
+                <li>Tela - Fale Conosco/Usuário</li>
+                <li>Tela - Agendamento/Atendimento</li>
+                <li>Tela - Relatório/Care/Atendimento</li>
+                <li>Tela - Relatório/Consulta/Atendimento</li>
+                <li>Tela - HistóricoMedico/Medico</li>
+                <li>Tela - Prontuário/Medico</li>
+               </ul>
+           </ul>
+       <li>Arquitetura da Solução</li>
+           <ul>
+            <li><b>Diagrama de componentes - </b> Tarefas: <i>Definição dos componentes que fazem parte da solução;</i> - (Dionísio)</li>
+            <li><b>Tecnologia Utilizada - </b> Tarefas: <i>Definição dos módulos para implementação da solução; </i> (Dionísio, Vagner e Max)</li>
+            <li><b>Hospedagem - </b> Tarefas: <i>Definição da plataforma para hospedagem do site do projeto; </i> (Dionísio, Vagner e Max)</li>
+           </ul>
+     </ol><br>
+  <li>Sprint 3: .............</li>
 </ol>
 
  
