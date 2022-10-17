@@ -22,6 +22,16 @@ Scrum Master:  Dionisio <br>
 Equipe de Desenvolvedores: Vagner e Max <br>
 Equipe de Design:  Gleisson e Frederico
 
+## Ferramentas
+
+Os artefatos do projetos serão desenvolvidos a partir de diversas plataformas, na tabela abaixo é apresentado a relação dos ambientes de trabalhos e seus respectivos propósitos.
+
+|AMBIENTE| PLATAFORMA DE TRABALHO      |LINK DE ACESSO                 |
+|--------------------|-----------------------------------------|----------------------------------------|
+|Repositório de Código Fonte    | Github | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare |
+|Documentos do Projeto | Google Drive  | https://docs.google.com/folder/d/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24 |
+|Projeto de Interface e Wireframe | Autoca 2020 | https://docs.google.com/folder/d/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24 |
+|Gerenciamento do Projeto   | Github Project   | Poder dar mais atenção aos pets. |
 
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
