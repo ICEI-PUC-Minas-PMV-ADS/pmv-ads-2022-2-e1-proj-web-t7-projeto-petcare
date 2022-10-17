@@ -17,10 +17,10 @@ Fechando a metodologia foi <b>realizado o registro</b> do desenvolvimento do pro
 
 A equipe está organizada da seguinte maneira:
 
-Product Owner: <br>
-Scrum Master:  <br>
-Equipe de Design:  <br>
-Equipe de Desenvolvedores:  <br>
+Product Owner: Marcio Kutova <br>
+Scrum Master:  Dionisio <br>
+Equipe de Desenvolvedores: Vagner e Max <br>
+Equipe de Design:  Gleisson e Frederico
 
 
 
