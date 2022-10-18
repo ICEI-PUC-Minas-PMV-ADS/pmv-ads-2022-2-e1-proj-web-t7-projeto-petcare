@@ -41,35 +41,35 @@ Selecionando a opção <b>Área do Cliente</b> na Tela Principal aparece:
 
 ![Área do Cliente](img/wireframe_usu_4.png)
 
-Após o <b>Login de Acesso</b> aparece:
+Após o <b>Login de Acesso</b> aparece para o <b>USUÁRIO/b>:
 
 ![Área do Cliente](img/wireframe_usu_5.png)
 
-Selecionando a opção <b>Fane Conosco</b> na Tela Principal aparece:
+Selecionando a opção <b>Fale Conosco</b> na Tela Principal aparece:
 
 ![Área do Cliente](img/wireframe_usu_6.png)
 
-Ao acessar o site aparcerá para o funcionário e médico a <b>Tela inicial</b> da aplicação:
+ Ao acessar o site aparcerá para o <b>FUNCIONÁRIO</b> e <b>MÉDICO</b> a <b>Tela inicial</b> da aplicação:
 
 ![Área do Funcionário](img/wireframe_fun_1.png)
 
-Selecionada a opção <b>Clinica</b> aparece:
+Selecionada a opção <b>Clinica</b> aparece para o <b>FUNCIONÁRIO</b>:
 
 ![Área do Funcionário](img/wireframe_fun_2.png)
 
-Após o <b>Login de Acesso</b> aparece para o funcionário a Tela:
+Após o <b>Login de Acesso</b> aparece para o <b>FUNCIONÁRIO</b> a Tela:
 
 ![Área do Funcionário](img/wireframe_fun_3.png)
 
-Selecionada a opção <b>Atendimento Médico</b> aparece a funcionalidade de impressão a agenda do Médico:
+Selecionada a opção <b>Atendimento Médico</b> aparece a funcionalidade que permite a impressão do agendamento de serviço Médico:
 
 ![Área do Funcionário](img/wireframe_fun_4.png)
 
-Selecionada a opção <b>Atendimento Banho/Tosa/b> aparece a funcionalidade de impressão do agende dos serviços de Banho e Tosa:
+Selecionada a opção <b>Atendimento Banho/Tosa</b> aparece a funcionalidade que permite a impressão do agendamento dos serviços de Banho e Tosa:
 
 ![Área do Funcionário](img/wireframe_fun_5.png)
  
-Após o <b>Login de Acesso</b> aparece para o médico a Tela:
+Após o <b>MÉDICO</b> logar na tela principal <b>Login de Acesso</b> aparece para a Tela:
  
 ![Área do Médico](img/wireframe_med_1.png)
  
