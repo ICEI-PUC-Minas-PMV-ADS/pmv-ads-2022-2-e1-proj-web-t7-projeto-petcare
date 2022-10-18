@@ -21,19 +21,19 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Wireframes
 
-A seguir são apresentados o desing da interface da aplicação PetCare. 
+A seguir são apresentados o desing da interface da aplicação <b>PetCare</b>. 
 
 ### Interação com o usuário
 
-Tela inicial que aparece para o usuário
+Ao acessar o site aparcerá para o usuário a <b>Tela inicial</b> da aplicação.
 
 ![Tela Inicial](img/wireframe_usu_1.png)
 
-Selecionando a opção <b>Agendamento</b> na Tela Principal aparece:
+Selecionando a opção <b>Agendamento</b> na Tela Principal aparecerá para o usuário:
 
 ![Agendamento](img/wireframe_usu_2.png)
 
-Confirmando o agendamento:
+Se o usuário conseguir identificar e selecionar um horário que o atenda aparecerá a tela de <b>Confirmação do Agendamento</b>:
 
 ![Agendamento Confirmado](img/wireframe_usu_3.png)
 
