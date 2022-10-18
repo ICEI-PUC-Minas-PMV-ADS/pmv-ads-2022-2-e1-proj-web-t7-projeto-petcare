@@ -27,59 +27,59 @@ A seguir são apresentados o desing da interface da aplicação <b>PetCare</b>.
 
 Ao acessar o site aparcerá para o usuário a <b>TELA INICIAL</b> da aplicação.
 
-![Tela Inicial](img/wireframe_usu_1.png)
+<img src="/docs/img/wireframe_usu_1.png" width=70% height=70%>
 
 Selecionando a opção <b>AGENDAMENTO</b> na Tela Principal aparecerá para o <b>USUÁRIO</b>usuário:
 
-![Agendamento](img/wireframe_usu_2.png)
+<img src="/docs/img/wireframe_usu_2.png" width=70% height=70%>
 
 Se o usuário conseguir identificar e selecionar um horário que o atenda aparecerá a tela de <b>CONFIRMAÇÃO DE AGENDAMENTO</b>:
 
-![Agendamento Confirmado](img/wireframe_usu_3.png)
+<img src="/docs/img/wireframe_usu_3.png" width=70% height=70%>
 
 Selecionando a opção <b>ÁREA DO CLIENTE</b> na Tela Principal aparece:
 
-![Área do Cliente](img/wireframe_usu_4.png)
+<img src="/docs/img/wireframe_usu_4.png" width=70% height=70%>
 
 Após o <b>LOGIN DE ACESSO</b> aparece para o <b>USUÁRIO</b>:
 
-![Área do Cliente](img/wireframe_usu_5.png)
+<img src="/docs/img/wireframe_usu_5.png" width=70% height=70%>
 
 Selecionando a opção <b>FALE CONOSCO</b> na Tela Principal aparece:
 
-![Área do Cliente](img/wireframe_usu_6.png)
+<img src="/docs/img/wireframe_usu_6.png" width=70% height=70%>
 
  Ao acessar o site aparcerá para o <b>FUNCIONÁRIO</b> e <b>MÉDICO</b> a <b>TELA INICIAL</b> da aplicação:
 
-![Área do Funcionário](img/wireframe_fun_1.png)
+<img src="/docs/img/wireframe_fun_1.png" width=70% height=70%>
 
 Selecionada a opção <b>CLÍNICA</b> aparece para o <b>FUNCIONÁRIO</b>:
 
-![Área do Funcionário](img/wireframe_fun_2.png)
+<img src="/docs/img/wireframe_fun_2.png" width=70% height=70%>
 
 Após o <b>LOGIN DE ACESSO</b> aparece para o <b>FUNCIONÁRIO</b> a Tela:
 
-![Área do Funcionário](img/wireframe_fun_3.png)
+<img src="/docs/img/wireframe_fun_3.png" width=70% height=70%>
 
 Selecionada a opção <b>ATENDIMENTO MÉDICO</b> aparece a funcionalidade que permite a impressão do agendamento de serviço Médico:
 
-![Área do Funcionário](img/wireframe_fun_4.png)
+<img src="/docs/img/wireframe_fun_4.png" width=70% height=70%>
 
 Selecionada a opção <b>ATENDIMENTO BANHO/TOSA</b> aparece a funcionalidade que permite a impressão do agendamento dos serviços de Banho e Tosa:
 
-![Área do Funcionário](img/wireframe_fun_5.png)
+<img src="/docs/img/wireframe_fun_5.png" width=70% height=70%>
  
 Após o <b>MÉDICO</b> logar na tela principal <b>LOGIN DE ACESSO</b> aparece para a Tela:
  
-![Área do Médico](img/wireframe_med_1.png)
+<img src="/docs/img/wireframe_med_1.png" width=70% height=70%>
  
 Selecionada a opção <b>HISTÓRICO MÉDICO</b> aparece para o <b>MÉDICO</b> a tela de Histórico Médico:
  
-![Área do Médico](img/wireframe_med_2.png)
+<img src="/docs/img/wireframe_med_2.png" width=70% height=70%>
  
 Selecionada a opção <b>PRONTUÁRIO MÉDICO</b> aparece para o <b>MÉDICO</b> a tela para preenchimento das informações obtidas na consuta e vacinação:
  
-![Área do Médico](img/wireframe_med_3.png)
+<img src="/docs/img/wireframe_med_3.png" width=70% height=70%>
 
 
 
