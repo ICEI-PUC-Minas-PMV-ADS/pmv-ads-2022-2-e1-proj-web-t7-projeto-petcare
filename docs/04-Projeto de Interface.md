@@ -48,3 +48,38 @@ Após o <b>Login de Acesso</b> aparece:
 Selecionando a opção <b>Fane Conosco</b> na Tela Principal aparece:
 
 ![Área do Cliente](img/wireframe_usu_6.png)
+
+Ao acessar o site aparcerá para o funcionário e médico a <b>Tela inicial</b> da aplicação:
+
+![Área do Funcionário](img/wireframe_fun_1.png)
+
+Selecionada a opção <b>Clinica</b> aparece:
+
+![Área do Funcionário](img/wireframe_fun_2.png)
+
+Após o <b>Login de Acesso</b> aparece para o funcionário a Tela:
+
+![Área do Funcionário](img/wireframe_fun_3.png)
+
+Selecionada a opção <b>Atendimento Médico</b> aparece a funcionalidade de impressão a agenda do Médico:
+
+![Área do Funcionário](img/wireframe_fun_4.png)
+
+Selecionada a opção <b>Atendimento Banho/Tosa/b> aparece a funcionalidade de impressão do agende dos serviços de Banho e Tosa:
+
+![Área do Funcionário](img/wireframe_fun_5.png)
+ 
+Após o <b>Login de Acesso</b> aparece para o médico a Tela:
+ 
+![Área do Médico](img/wireframe_med_1.png)
+ 
+Selecionada a opção <b>Histórico Médico</b> aparece para o médico a tela de Histórico Médico:
+ 
+![Área do Médico](img/wireframe_med_2.png)
+ 
+Selecionada a opção <b>Prontuário Médico</b> aparece para o médico a tela para preenchimento das informações obtidas na consuta e vacinação:
+ 
+![Área do Médico](img/wireframe_med_3.png)
+
+
+
