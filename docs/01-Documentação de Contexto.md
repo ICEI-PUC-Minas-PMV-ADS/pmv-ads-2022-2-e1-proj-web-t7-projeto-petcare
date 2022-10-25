@@ -21,11 +21,6 @@ Algumas vezes quando em viagens com seus pets os tutores se esquecem de levar im
 Os sistemas disponíveis no mercado também não proporcionam ao médico o histórico médico de atendimento dos animais com a descrição os problemas de saúde, controle de peso, tratamentos e vacinas já ministradas aos animais. Estas informações são importantes para o correto diagnóstico dos animais. 
 
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 O objetivo geral deste trabalho é o desenvolvimento de uma aplicação Web Front-End para no atendimento de demandas de usuário e de profissionais em clínicas de atendimento veterinário. 
@@ -39,9 +34,6 @@ Como objetivos específicos, podemos destacar:
 <li>Armazenar e disponibilizar ao usuário o Atestados de Boa Saúde de seus animais (documento pdf);</li>
 </ul>
 
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -54,23 +46,10 @@ Hoje os planos de saúde contam com apenas 1% dos donos de pet e por essa razão
 A intensificação desta relação afetiva tem causado maior atenção do Poder Judiciário em relação a erros e negligência cometidos pelos profissionais de saúde animal (SLOWINSKI ET AL, 2016). Neste contexto o prontuário médico, os dados históricos de atendimento e vacinação dos animais rapidamente disponíveis pelo sistema passam a ser muito importantes. Muitas vezes estas informações podem comprovar a condição de saúde inicial do paciente, servindo para análise da evolução da doença como para defesa do profissional, caso ele venha ser responsabilizado por algum resultado diferente do esperado (PAZÓ; HEANCIO, 2014).
 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
 O público-alvo desta aplicação web front-end são os usuários externos e a equipe da clínica PetCare. 
 Os tutores que esperam a comodidade de poder contratar os diversos serviços da PetCare de acordo com a sua disponibilidade de tempo e ainda ter acesso às informações de seus Pets.
 
 Os médicos veterinários têm expectativa de se beneficiarem com informações que possam contribuir para o correto diagnóstico de seus pacientes, e os funcionários esperam poder contar com um sistema que os auxilie no melhor gerenciamento dos serviços oferecidos pela empresa. 
-
-
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
 
