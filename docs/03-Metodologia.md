@@ -18,7 +18,7 @@ No item processo são então detalhados os Sprints, os itens ou entregáveis e a
 
 A equipe está organizada da seguinte maneira:
 
-Product Owner: Marcio Kutova <br>
+Product Owner: Vagner <br>
 Scrum Master:  Dionisio <br>
 Equipe de Desenvolvedores: Vagner e Max <br>
 Equipe de Design:  Gleisson e Frederico
