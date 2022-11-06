@@ -36,11 +36,48 @@ Os artefatos do projetos serão desenvolvidos a partir de diversas plataformas, 
 |Desenvolvimento da aplicação   | Visual Studio Code  |  |
 
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+
 
 ## Processo
 
 ### Projeto PetCare
+
+O backlog do projeto foi constituído de uma série de entregáveis distribuídos nas seguintes etapas: Documentação de Contexto, Especificação de projeto, Metodologia, Projeto de Interface, Arquitetura de Solução, Template do Site, Programação de Funcionalidades, Plano de Testes de Software, Apresentação do Projeto e Referências.
+Para realizar esse backlog foram necessárias cinco Strints descritas a seguir.
+
+<b>Sprint 1:</b> 
+
+<b>Planejamento:</b>  Uma vez iniciado alinhamento da equipe de trabalho através de troca de mensagens e chamadas coletivas utilizando o WhatsApp foi idealizada a fase inicial de trabalho: Análise do Projeto e Especificação de Requisitos.
+
+<b>Execução:</b> Foi realizada pesquisa bibliográfica sobre a demanda do “mercado de Pets” e aplicativos disponíveis para este setor. De posse dos artigos pesquisados foi elaborada a documentação de contexto, com caracterização do problema e identificação dos objetivos gerais e específicos, justificativa e o público-alvo. A seguir foi realizada a especificação do projeto, identificando: as personas; histórias de usuários; definição dos requisitos funcionais e não funcionais; e restrições. 
+
+Evidências:
+<ul>
+<li><b>Documentação de Contexto:</b> Constituída de caracterização do problema, identificação dos objetivos gerais e específicos, justificativa e público-alvo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md</li>
+ 
+<li><b>Especificação do Projeto:</b> Identificação das personas, história de usuários, requisitos funcionais, não funcionais e restrições do projeto. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md</li>
+</ul>
+
+<b>Sprint 2:</b>
+
+<b>Planejamento:</b> Foi determinada as funções de cada componente do grupo de acordo com suas habilidades, definido o ambiente de trabalho e identificação do backlog e etapas do processo. Para projeto de interface foram elaborados o wireframe das telas e definido o fluxo de interação entre elas. 
+ 
+<b>Execução:</b> Os wireframes e o diagrama de fluxo foram elaborados utilizando o AutoCad 2017 pelo fato de ser um software de conhecimento do grupo, a desvantagem desta escolha foi o maior trabalho na implementação das páginas em html e CSS. Para gerenciamento das tarefas foi utilizado o Project do Github e como repositório de dados o Github.
+
+Evidências:
+
+<ul>
+<li><b>Metodologia:</b> Composição da equipe de trabalho, Ferramentas e Processo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/03-Metodologia.md</li>
+
+<li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/04-Projeto%20de%20Interface.md</li>
+ 
+<li>Desenvolvimento dos wireframes e diagrama de fluxo para o projeto Web Front End utilizando o AutoCad 2022.</li>
+</ul>
+
+
+
+
+
 <ol>
  <li> Sprint 1: Análise do problema e especificação dos requisitos</li>
       <ol>
