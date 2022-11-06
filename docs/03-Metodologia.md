@@ -73,7 +73,7 @@ Evidências:
  
 <li>Desenvolvimento dos wireframes e diagrama de fluxo para o projeto Web Front End utilizando o AutoCad 2022.</li>
  
- <img src="/docs/img/AutoCad.png" width=70% height=70%>
+ <img src="/docs/img/autocad.png" width=100% height=70%>
 </ul>
 
 
