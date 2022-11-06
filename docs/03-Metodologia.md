@@ -72,6 +72,8 @@ Evidências:
 <li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/04-Projeto%20de%20Interface.md</li>
  
 <li>Desenvolvimento dos wireframes e diagrama de fluxo para o projeto Web Front End utilizando o AutoCad 2022.</li>
+ 
+ <img src="/docs/img/AutoCad.png" width=70% height=70%>
 </ul>
 
 
