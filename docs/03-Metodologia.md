@@ -31,7 +31,7 @@ Os artefatos do projetos serão desenvolvidos a partir de diversas plataformas, 
 |--------------------|-----------------------------------------|----------------------------------------|
 |Repositório de Código Fonte    | Github | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare |
 |Documentos do Projeto | Google Drive  | https://docs.google.com/folder/d/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24 |
-|Projeto de Interface e Wireframe | AutoCad 2020 |  |
+|Projeto de Interface e Wireframe | AutoCad 2020 | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/PetCare.dwg |
 |Gerenciamento do Projeto   | Github Project   | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/193 |
 |Desenvolvimento da aplicação   | Visual Studio Code  |  |
 
@@ -76,6 +76,7 @@ Evidências:
  <img src="/docs/img/autocad.png" width=100% height=70%>
 </ul>
 
+<b>Sprint 3:</b>
 
 
 
