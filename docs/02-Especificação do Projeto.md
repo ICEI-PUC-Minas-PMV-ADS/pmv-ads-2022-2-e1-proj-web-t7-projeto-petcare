@@ -71,7 +71,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
     <tbody>
         <tr>
             <td rowspan=3> <img src="/docs/img/Carrasco_2.png" width=70% height=70%> <br> Foto de Irene Strong em Unsplash </td>
-            <td colspan=2> <h1>Gilberto Costa</h1> </td> 
+            <td colspan=2> <h1>Bruno Carrasco</h1> </td> 
         </tr>
         <tr>
             <td rowspan=2><h4>Idade:</h4> 28 <br> <h4>Ocupação:</h4> Funcionário responsável pelo serviço de banho e tosa da PetCare.</td>
