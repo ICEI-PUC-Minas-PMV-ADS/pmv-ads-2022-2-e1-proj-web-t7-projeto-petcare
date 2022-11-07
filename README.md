@@ -6,7 +6,9 @@
 
 `SEMESTRE: 2/2022`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto busca atender a clínica veterinária voltada para atendimento clínico, vacinação e serviços de banho e tosa. Basicamente este projeto Web front-end procura implementar facilidades para o público em geral e para funcionários e médicos que atendem na PetCare.
+
+Com a aplicação os usuários poderão realizar agendamento dos serviços de clínica, no momento mais conveniente, através de smartphones. Os funcionários contaram com sistema capaz de geram relatórios com os agendamentos previstos para determinado dia além de poderem consultar o hitórico médico dos animais em atendimento.
 
 ## Integrantes
 
