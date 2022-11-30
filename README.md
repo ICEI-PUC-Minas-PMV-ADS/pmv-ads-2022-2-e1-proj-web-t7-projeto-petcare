@@ -13,10 +13,10 @@ Com a aplicação os usuários poderão realizar agendamento dos serviços de cl
 ## Integrantes
 
 * Dionísio Tadeu de Azevedo
-* Frederico Augusto Marques
-* Gleisson Martins Soares
-* Maxwell de Souza Pedroza
 * Vagner de Oliveira Florencio
+* Maxwell de Souza Pedroza
+* Gleisson Martins Soares
+* Frederico Augusto Marques
 
 ## Orientador
 
