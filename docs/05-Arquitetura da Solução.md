@@ -14,6 +14,8 @@ Os componentes que fazem parte da solução são apresentados na Figura XX.
 
 FIGURA 1
 
+Imagem: https://learninfinity.info/utilizing-browser-local-storage-for-client-site-script-in-any-web-application/
+
 A solução implementada conta com os seguintes módulos:
 
 - **Navegador** - Interface básica do sistema  
