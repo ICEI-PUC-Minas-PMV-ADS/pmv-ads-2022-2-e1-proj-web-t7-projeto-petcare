@@ -5,7 +5,27 @@
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
+
+Plano de Teste
+
+
+Requisito associado:     Requisito Funcional RF-001: Agendamento de Serviços on-line;
+Objetivo do teste:       Avaliar se os dados inseridos no formulário estão sendo armazenados no localStorage;
+Procedimento de teste:   Acessar o site PetCare; Preencher todos os campos do formulário; Clicar em Confirmar para inserção do novo registro;
+Métrica satisfatória:    O novo registro deverá ser inserido no banco de dados, os campos do formulário devem estar limpos (em branco);
+
+
+Requisito associado:     Requisito Funcional RF-008: Cadastramento de pets no sistema;
+Objetivo do teste:       Avaliar se os dados inseridos no formulário estão sendo armazenados no localStorage;
+Procedimento de teste:   Acessar o site PetCare; Preencher todos os campos do formulário Cadastro Pet; Clicar em Confirmar para inserção do novo registro;
+Métrica satisfatória:    O novo registro deverá ser inserido no banco de dados, os campos do formulário devem estar limpos (em branco);
+
+Requisito associado:     Requisito Funcional RF-008: Cadastramento de dados obtidos durante a consulta no sistema;
+Objetivo do teste:       Avaliar se os dados inseridos no formulário estão sendo armazenados no localStorage;
+Procedimento de teste:   Acessar o site PetCare; Preencher todos os campos do formulário Cadastro Pet; Clicar em Confirmar para inserção do novo registro;
+Métrica satisfatória:    O novo registro deverá ser inserido no banco de dados, os campos do formulário devem estar limpos (em branco);
  
+<!--
 ## Ferramentas de Testes (Opcional)
 
 Comente sobre as ferramentas de testes utilizadas.
@@ -17,3 +37,4 @@ Comente sobre as ferramentas de testes utilizadas.
 > - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+-->
