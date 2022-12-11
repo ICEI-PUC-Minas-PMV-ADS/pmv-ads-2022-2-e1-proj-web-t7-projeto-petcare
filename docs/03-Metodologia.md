@@ -100,7 +100,7 @@ Evidências:
 
 <b>Planejamento:</b> Foi implementada as funcionalidades da aplicação, estabelecido plano de teste de software e realizado registro de testes de software. 
  
-<b>Execução:</b> Foram elaboradas as funcionalidades de Agendamento de horários, Cadastro de Pets e Dados de Pets. O plano de testes constituíu na elaboração e carregamento de base de dados no localStorage com posterior inclusão de novos dados.
+<b>Execução:</b> Foram elaboradas as funcionalidades de Agendamento de horários, Cadastro de Pets e Dados de Pets. O plano de testes constituíu na elaboração e carregamento de base de dados no localStorage com posterior inclusão de novos registros no localStorage.
 
 Evidências:
 
