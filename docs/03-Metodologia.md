@@ -62,6 +62,7 @@ Evidências:
 <li><b>Documentação de Contexto:</b> Constituída de caracterização do problema, identificação dos objetivos gerais e específicos, justificativa e público-alvo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md</li>
  
 <li><b>Especificação do Projeto:</b> Identificação das personas, história de usuários, requisitos funcionais, não funcionais e restrições do projeto. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md</li>
+<img src="/docs/img/Sprint_1.png" width=100% height=70%>
 </ul>
 
 <b>Sprint 2:</b>
@@ -77,9 +78,8 @@ Evidências:
 
 <li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/04-Projeto%20de%20Interface.md</li>
  
-<li>Desenvolvimento dos wireframes e diagrama de fluxo para o projeto Web Front End utilizando o AutoCad 2022.</li>
- 
- <img src="/docs/img/autocad.png" width=100% height=70%>
+<li>Desenvolvimento dos wireframes e diagrama de fluxo para o projeto Web Front End utilizando o AutoCad 2022.</li> 
+<img src="/docs/img/Sprint_2.png" width=100% height=70%>
 </ul>
 
 <b>Sprint 3:</b>
@@ -94,6 +94,7 @@ Evidências:
 <li><b>Template padrão do site:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/06-Template%20padr%C3%A3o%20do%20Site.md</li>
 
 <li><b>Programação de funcionalidades:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/04-Projeto%20de%20Interface.md]](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/07-Programa%C3%A7%C3%A3o%20de%20Funcionalidades.md</li>
+ <img src="/docs/img/Sprint_3.png" width=100% height=70%>
 </ul>
 
 <b>Sprint 4:</b>
@@ -110,7 +111,7 @@ Evidências:
 <li><b>Plano de testes de software:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/08-Plano%20de%20Testes%20de%20Software.md</li>
 
 <li><b>Registro de teste de software:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/09-Registro%20de%20Testes%20de%20Software.md</li>
- 
+<img src="/docs/img/Sprint_4.png" width=100% height=70%>
 </ul>
 
 <b>Sprint 5:</b>
@@ -125,6 +126,7 @@ Evidências:
 <li><b>Apresentação do projeto:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/10-Apresenta%C3%A7%C3%A3o%20do%20Projeto.md</li>
 
 <li><b>Vídeo do projeto:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/10-Apresenta%C3%A7%C3%A3o%20do%20Projeto.md</li>
+<img src="/docs/img/Sprint_5.png" width=100% height=70%>
 </ul>
 
 
