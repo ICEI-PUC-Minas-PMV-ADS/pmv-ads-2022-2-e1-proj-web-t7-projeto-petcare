@@ -93,23 +93,23 @@ Evidências:
 <ul>
 <li><b>Template padrão do site:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/06-Template%20padr%C3%A3o%20do%20Site.md</li>
 
-<li><b>Programação de funcionalidades:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/04-Projeto%20de%20Interface.md]</li>
+<li><b>Programação de funcionalidades:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/04-Projeto%20de%20Interface.md]](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/07-Programa%C3%A7%C3%A3o%20de%20Funcionalidades.md</li>
 </ul>
 
 <b>Sprint 4:</b>
 
-<b>Planejamento:</b> Foi implementada demais funcionalidades da aplicação, estabelecido plano de teste de software e realizado registro de testes de software. 
+<b>Planejamento:</b> Foi implementada as funcionalidades da aplicação, estabelecido plano de teste de software e realizado registro de testes de software. 
  
-<b>Execução:</b> Os wireframes e o diagrama de fluxo foram elaborados utilizando o AutoCad 2022 pelo fato de ser um software de conhecimento do grupo, a desvantagem desta escolha foi o maior trabalho na implementação das páginas em html e CSS. Para gerenciamento das tarefas foi utilizado o Project do Github e como repositório de dados o Github.
+<b>Execução:</b> Foram elaboradas as funcionalidades de Agendamento de horários, Cadastro de Pets e Dados de Pets. O plano de testes constituíu na elaboração e carregamento de base de dados no localStorage com posterior inclusão de novos dados.
 
 Evidências:
 
 <ul>
-<li><b>Programação de demais funcionalidades:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/08-Plano%20de%20Testes%20de%20Software.md</li>
+<li><b>Programação de demais funcionalidades:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/07-Programa%C3%A7%C3%A3o%20de%20Funcionalidades.md</li>
 
-<li><b>Plano de testes de software:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/09-Registro%20de%20Testes%20de%20Software.md</li>
+<li><b>Plano de testes de software:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/08-Plano%20de%20Testes%20de%20Software.md</li>
 
-<li><b>Registro de teste de software:</b> </li>
+<li><b>Registro de teste de software:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/09-Registro%20de%20Testes%20de%20Software.md</li>
  
 </ul>
 
@@ -128,105 +128,3 @@ Evidências:
 </ul>
 
 
-
-
-
-
-
-
-
-
-
-<!--
-<ol>
- <li> Sprint 1: Análise do problema e especificação dos requisitos</li>
-      <ol>
-       <li>Documentação de Contexto</li>
-           <ul>
-            <li><b>Problema - </b> Tarefas: <i>Entrevistar com o Product Owner;  Síntetisar as informações; Elaborar texto;</i> - (Dionísio, Vagner e Max)</li>
-            <li><b>Objetivos - </b> Tarefas: <i>Entrevistas com o Procuct Owner; Pesquisa de aplicativos disponiveis no mercado;  Definição dos objetivos gerais; <br> 
-             Definição dos objetivos específicos;</i> (Dionísio, Vagner e Max)</li>
-            <li><b>Justificativa - </b> Tarefas: <i>Pesquisa na Web; Síntese das informações;</i> (Dionísio, Vagner e Max)</li>
-            <li><b>Público Alvo - </b> Tarefas: <i>Identificar o público alvo da aplicação;</i> (Dionísio, Vagner e Max)</li>
-           </ul>
-       <li>Especificação do projeto</li>
-           <ul>
-            <li><b>Personas - </b> Tarefas: <i>Entrevistar um usuário típico, funcionário do atendimento e um médico;</i> - (Dionísio)</li>
-            <li><b>Histórias de usuários - </b> Tarefas: <i>Identifcar quais os desejos do usuário em relação aos pets que podem ser atendidos pelo projeto. Por que?; Identifcar quais os desejos do funcionário e médico que podem ser atendidos pelo projeto. Por que?; </i> (Dionísio, Vagner e Max)</li>
-            <li><b>Requisitos Funcionais - </b> Tarefas: <i>Identificar quais serviços podem ser implementados para comodidade e fidelização dos usuários; Identifficar funcionalidades que podem otimizar o trabalho do funcionário. Identifcar funcionalidades que atendam as necessidades do médico; </i> (Dionísio, Vagner e Max)</li>
-            <li><b>Requisitos Não Funcionais- </b> Tarefas: <i>Identifcar as rotinas que deverão ser implementadas no sistema para atender ao usuário, funcionario e médico;</i> (Dionísio, Vagner e Max)</li>
-           </ul>
-      </ol><br>
- <li>Sprint 2: Projeto da solução</li>
-      <ol>
-       <li>Metodologia</li>
-           <ul>
-            <li><b>Equipe de Trabalho - </b> Tarefas: <i>Definição de ScrumMaster; Design; e Desenvolvedores;</i> - (Dionísio, Vagner e Max)</li>
-            <li><b>Ferramentas - </b> Tarefas: <i>Identificação de: repositório de código fonte; armazenamento de documentos de projeto; ferramentas de elaboração de design e wireframe; gerênciamento de projeto; desenvolvimento da aplicação;</i> (Vagner, Max e Dionisio)</li>
-           </ul>
-       <li>Projeto de Interface</li>
-           <ul>
-            <li><b>Fluxo do Usuário - </b> Tarefas: <i>Elaboração do diagram de interação de telas;</i> - (Dionísio)</li>
-            <li><b>Wireframe - </b> Tarefas: <i>Definição do layout de: </i> (Dionísio, Vagner e Max)</li>
-               <ul>
-                <li>Tela - Home-Page</li>
-                <li>Tela - Agendamento/Usuário</li>
-                <li>Tela - Area do Cliente/Usuário</li>
-                <li>Tela - Fale Conosco/Usuário</li>
-                <li>Tela - Agendamento/Atendimento</li>
-                <li>Tela - Relatório/Care/Atendimento</li>
-                <li>Tela - Relatório/Consulta/Atendimento</li>
-                <li>Tela - HistóricoMedico/Medico</li>
-                <li>Tela - Prontuário/Medico</li>
-               </ul>
-           </ul>
-       <li>Arquitetura da Solução</li>
-           <ul>
-            <li><b>Diagrama de componentes - </b> Tarefas: <i>Definição dos componentes que fazem parte da solução;</i> - (Dionísio)</li>
-            <li><b>Tecnologia Utilizada - </b> Tarefas: <i>Definição dos módulos para implementação da solução; </i> (Dionísio, Vagner e Max)</li>
-            <li><b>Hospedagem - </b> Tarefas: <i>Definição da plataforma para hospedagem do site do projeto; </i> (Dionísio, Vagner e Max)</li>
-           </ul>
-     </ol><br>
-  <li>Sprint 3: Desenvolvimento da solução - Parte 1 </li>
-     <ol>
-      <li><b>Template padrão do Site</b> (Max e Vagner)</li>
-          <ul>
-           <li>....</li>
-           <li>....</li>
-          </ul>
-      <li><b>Funcionalidades do Sistema</b> (Max e Vagner)</li>
-          <ul>
-           <li>....</li>
-           <li>....</li>
-          </ul>
-     </ol><br>
- 
-   <li>Sprint 4: Desenvolvimento da solução - Parte 2 </li>
-     <ol>
-      <li><b>Plano de Teste de Software</b> (Frederico e Gleisson)</li>
-          <ul>
-           <li>....</li>
-           <li>....</li>
-          </ul>
-      <li><b>Registro de Teste de Software</b> (Frederico e Gleisson)</li>
-          <ul>
-           <li>....</li>
-           <li>....</li>
-          </ul>
-     </ol><br>
- 
-   <li>Sprint 5: Implantação de Apresentação da Solução </li>
-     <ol>
-      <li><b>Elaboração da Apresentação</b></li>
-          <ul>
-           <li>....</li>
-           <li>....</li>
-          </ul>
-     </ol>
-</ol>
-
- 
-
-
-
--->
