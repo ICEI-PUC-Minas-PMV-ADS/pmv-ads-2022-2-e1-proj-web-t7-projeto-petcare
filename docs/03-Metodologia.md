@@ -84,9 +84,18 @@ Evidências:
 
 <b>Sprint 3:</b>
 
-<b>Planejamento:</b> Foi determinada as funções de cada componente do grupo de acordo com suas habilidades, definido o ambiente de trabalho e identificação do backlog e etapas do processo. Para projeto de interface foram elaborados o wireframe das telas e definido o fluxo de interação entre elas. 
+Template padraão do site
+Progrmação de Funcionalidades
+
+Inicialmente o template padrão do site, demais interfaces e programação das funcionalidades da pagina com armazenamento dos dados local foram desenvolvidos no Visial Studio Code, 
+
+
+<b>Planejamento:</b> Elaboração do template padrão do site, demais interfaces e programação das funcionalidades da aplicação. 
  
-<b>Execução:</b> Os wireframes e o diagrama de fluxo foram elaborados utilizando o AutoCad 2022 pelo fato de ser um software de conhecimento do grupo, a desvantagem desta escolha foi o maior trabalho na implementação das páginas em html e CSS. Para gerenciamento das tarefas foi utilizado o Project do Github e como repositório de dados o Github.
+<b>Execução:</b> Inicialmente o template padrão do site e demais interfaces foram integralmente desenvolvidas no Visual Studio Code. No entanto o grupo chegou a conclusão que o aspecto estético do produto final poderia ser melhor e desta maneira foi realizada nova implemntação utilizando 
+resultado final não agradou e programação das funcionalidades da pagina com armazenamento dos dados local foram desenvolvidos no Visial Studio Code, 
+
+Os wireframes e o diagrama de fluxo foram elaborados utilizando o AutoCad 2022 pelo fato de ser um software de conhecimento do grupo, a desvantagem desta escolha foi o maior trabalho na implementação das páginas em html e CSS. Para gerenciamento das tarefas foi utilizado o Project do Github e como repositório de dados o Github.
 
 Evidências:
 
@@ -101,6 +110,9 @@ Evidências:
 </ul>
 
 <b>Sprint 4:</b>
+
+Plano de testes
+Registro de testes
 
 <b>Planejamento:</b> Foi determinada as funções de cada componente do grupo de acordo com suas habilidades, definido o ambiente de trabalho e identificação do backlog e etapas do processo. Para projeto de interface foram elaborados o wireframe das telas e definido o fluxo de interação entre elas. 
  
