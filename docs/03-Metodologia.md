@@ -87,22 +87,16 @@ Evidências:
 Template padraão do site
 Progrmação de Funcionalidades
 
-Inicialmente o template padrão do site, demais interfaces e programação das funcionalidades da pagina com armazenamento dos dados local foram desenvolvidos no Visial Studio Code, 
-
-
 <b>Planejamento:</b> Elaboração do template padrão do site, demais interfaces e programação das funcionalidades da aplicação. 
  
-<b>Execução:</b> Inicialmente o template padrão do site e demais interfaces foram integralmente desenvolvidas no Visual Studio Code. No entanto o grupo chegou a conclusão que o aspecto estético do produto final poderia ser melhor e desta maneira foi realizada nova implemntação utilizando 
-resultado final não agradou e programação das funcionalidades da pagina com armazenamento dos dados local foram desenvolvidos no Visial Studio Code, 
-
-Os wireframes e o diagrama de fluxo foram elaborados utilizando o AutoCad 2022 pelo fato de ser um software de conhecimento do grupo, a desvantagem desta escolha foi o maior trabalho na implementação das páginas em html e CSS. Para gerenciamento das tarefas foi utilizado o Project do Github e como repositório de dados o Github.
+<b>Execução:</b> Inicialmente o template padrão do site e demais interfaces foram integralmente desenvolvidas com base nos wireframes elaborados. Posteriormente o grupo chegou a conclusão que o aspecto estético do produto final poderia ser melhor apresentado e desta maneira foi realizada nova implemntação do layput das paginas.
 
 Evidências:
 
 <ul>
-<li><b>Metodologia:</b> Composição da equipe de trabalho, Ferramentas e Processo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/03-Metodologia.md</li>
+<li><b>Template padrão do site:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/03-Metodologia.md</li>
 
-<li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/04-Projeto%20de%20Interface.md</li>
+<li><b>Programação de funcionalidades:</b>  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/04-Projeto%20de%20Interface.md</li>
  
 <li>Desenvolvimento dos wireframes e diagrama de fluxo para o projeto Web Front End utilizando o AutoCad 2022.</li>
  
