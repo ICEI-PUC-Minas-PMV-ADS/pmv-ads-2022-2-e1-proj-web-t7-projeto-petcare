@@ -2,9 +2,7 @@
 
 Para realização de agendamento de serviços foi implementada o formulário a seguir, onde o usuário seleciona o serviço desejado, preenche o formulário com seus dados e de seu animal e seleciona o dia e horario de sua conveniência. Desta maneira é concluido o agendamento.
 
-
-
-
+<img width="366" alt="image" src="https://user-images.githubusercontent.com/107723446/206936091-8d208294-4d24-405c-b78c-f726a64b1c0e.png">
 
 Os dados deste formulário permitem a inserção do seguinte objeto JSON, na base de dados:
 
@@ -17,8 +15,6 @@ Os dados deste formulário permitem a inserção do seguinte objeto JSON, na bas
     "numTelefone":"3199999-2222",
     "email": "bLopes@yahoo.com"
     },
-<img width="366" alt="image" src="https://user-images.githubusercontent.com/107723446/206936091-8d208294-4d24-405c-b78c-f726a64b1c0e.png">
-
 
 
 O cadastro dos pets é realizado durante a consulta pelo profissional da saúde. No formlário abaixo são inseridas a identificação do tutor, nome e data de nascimento do pet.Os dados deste formulário permitem a inserção do seguinte objeto JSON, na base de dados:
