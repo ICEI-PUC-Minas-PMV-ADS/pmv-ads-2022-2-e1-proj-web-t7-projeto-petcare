@@ -4,6 +4,8 @@ Para realização de agendamento de serviços foi implementada o formulário a s
 
 <img width="366" alt="image" src="https://user-images.githubusercontent.com/107723446/206936091-8d208294-4d24-405c-b78c-f726a64b1c0e.png">
 
+<!--<img src="/docs/img/locaStorage.png" width=80% height=50%>-->
+
 Os dados deste formulário permitem a inserção do seguinte objeto JSON, na base de dados:
 
     {
