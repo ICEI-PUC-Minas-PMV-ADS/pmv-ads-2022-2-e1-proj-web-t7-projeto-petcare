@@ -91,7 +91,7 @@ Evidências:
 Evidências:
 
 <ul>
-<li><b>Template padrão do site:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/03-Metodologia.md</li>
+<li><b>Template padrão do site:</b> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/06-Template%20padr%C3%A3o%20do%20Site.md</li>
 
 <li><b>Programação de funcionalidades:</b>  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/04-Projeto%20de%20Interface.md</li>
  
