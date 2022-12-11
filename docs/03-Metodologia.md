@@ -18,12 +18,12 @@ No item processo são então detalhados os Sprints, os itens ou entregáveis e a
 
 A equipe está organizada da seguinte maneira:
 
-Product Owner: Vagner <br>
-Scrum Master:  Dionisio <br>
-Equipe de Desenvolvedores: Vagner e Max <br>
-Equipe de Design:  Gleisson e Frederico
+`Product Owner`: Vagner <br>
+`Scrum Master`:  Dionisio <br>
+`Equipe de Desenvolvedores`: Dionisio, Vagner e Max <br>
+`Equipe de Design`:  Gleisson e Frederico
 
-## Ferramentas
+## Ambientes e Ferramentas
 
 Os artefatos do projetos serão desenvolvidos a partir de diversas plataformas, na tabela abaixo é apresentado a relação dos ambientes de trabalhos e seus respectivos propósitos.
 
@@ -35,8 +35,14 @@ Os artefatos do projetos serão desenvolvidos a partir de diversas plataformas, 
 |Gerenciamento do Projeto   | Github Project   | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/193 |
 |Desenvolvimento da aplicação   | Visual Studio Code  |  |
 
+Em relação as ferramentas para implmentação do projeto foi utilizado o AutoCad 2022 para desenvolvimento dos wireframes. OS códigos HTML, CSS e JavaScript foram implementados utilizando o Visual Studio Code. O layout final do trabalho foi repaginado no Adobe Ilustrator.
 
+Ferramentas utilizadas:
 
+`Desenho do Wireframe`: AutoCad 2022 <br>
+`Ferramentas de Integração do Grupo`:  WhatsApp e Micrisoft Teams <br>
+`Designer das Telas`: Adobe Ilustrator <br>
+`Implementação dos Códigos`:  Visual Studio Code
 
 ## Processo
 
@@ -60,9 +66,9 @@ Evidências:
 
 <b>Sprint 2:</b>
 
-<b>Planejamento:</b> Foi determinada as funções de cada componente do grupo de acordo com suas habilidades, definido o ambiente de trabalho e identificação do backlog e etapas do processo. Para projeto de interface foram elaborados o wireframe das telas e definido o fluxo de interação entre elas. 
+<b>Planejamento:</b> Foi determinada as funções de cada componente do grupo de acordo com suas habilidades, definido o ambiente de trabalho e identificação do backlog e etapas do processo. Para projeto de interface foram elaborados o wireframe das telas e definido o fluxo de interação entre elas. A gestão incremental do projeto foi iniciada no Kanban.
  
-<b>Execução:</b> Os wireframes e o diagrama de fluxo foram elaborados utilizando o AutoCad 2017 pelo fato de ser um software de conhecimento do grupo, a desvantagem desta escolha foi o maior trabalho na implementação das páginas em html e CSS. Para gerenciamento das tarefas foi utilizado o Project do Github e como repositório de dados o Github.
+<b>Execução:</b> Os wireframes e o diagrama de fluxo foram elaborados utilizando o AutoCad 2022 pelo fato de ser um software de conhecimento do grupo, a desvantagem desta escolha foi o maior trabalho na implementação das páginas em html e CSS. Para gerenciamento das tarefas foi utilizado o Kanban do Project/Github e como repositório de dados o Github.
 
 Evidências:
 
@@ -77,6 +83,49 @@ Evidências:
 </ul>
 
 <b>Sprint 3:</b>
+
+<b>Planejamento:</b> Foi determinada as funções de cada componente do grupo de acordo com suas habilidades, definido o ambiente de trabalho e identificação do backlog e etapas do processo. Para projeto de interface foram elaborados o wireframe das telas e definido o fluxo de interação entre elas. 
+ 
+<b>Execução:</b> Os wireframes e o diagrama de fluxo foram elaborados utilizando o AutoCad 2022 pelo fato de ser um software de conhecimento do grupo, a desvantagem desta escolha foi o maior trabalho na implementação das páginas em html e CSS. Para gerenciamento das tarefas foi utilizado o Project do Github e como repositório de dados o Github.
+
+Evidências:
+
+<ul>
+<li><b>Metodologia:</b> Composição da equipe de trabalho, Ferramentas e Processo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/03-Metodologia.md</li>
+
+<li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/04-Projeto%20de%20Interface.md</li>
+ 
+<li>Desenvolvimento dos wireframes e diagrama de fluxo para o projeto Web Front End utilizando o AutoCad 2022.</li>
+ 
+ 
+</ul>
+
+<b>Sprint 4:</b>
+
+<b>Planejamento:</b> Foi determinada as funções de cada componente do grupo de acordo com suas habilidades, definido o ambiente de trabalho e identificação do backlog e etapas do processo. Para projeto de interface foram elaborados o wireframe das telas e definido o fluxo de interação entre elas. 
+ 
+<b>Execução:</b> Os wireframes e o diagrama de fluxo foram elaborados utilizando o AutoCad 2022 pelo fato de ser um software de conhecimento do grupo, a desvantagem desta escolha foi o maior trabalho na implementação das páginas em html e CSS. Para gerenciamento das tarefas foi utilizado o Project do Github e como repositório de dados o Github.
+
+Evidências:
+
+<ul>
+<li><b>Metodologia:</b> Composição da equipe de trabalho, Ferramentas e Processo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/03-Metodologia.md</li>
+
+<li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/04-Projeto%20de%20Interface.md</li>
+ 
+<li>Desenvolvimento dos wireframes e diagrama de fluxo para o projeto Web Front End utilizando o AutoCad 2022.</li>
+ 
+
+</ul>
+
+
+
+
+
+
+
+
+
 
 
 
