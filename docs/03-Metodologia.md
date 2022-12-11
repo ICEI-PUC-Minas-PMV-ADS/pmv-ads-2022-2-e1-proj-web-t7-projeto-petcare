@@ -117,7 +117,7 @@ Evidências:
 
 <b>Planejamento:</b> Neste último Sprint foi elaborada a apresentação do trabalho e produzido um pequeno video demonstrativo da aplicação.
  
-<b>Execução:</b> A apresentação foi elaborada no programa Microsoft Powerpoint e exibe os principais aspectos relacionados com o desenvolvimento do projeto, tais como: Motivação, Justificativa, Objetivos, Requisitos, Arquitetura da solução, Template do site, Funcionalidades, Plano e Registro de Software.   
+<b>Execução:</b> A apresentação foi elaborada no programa Microsoft Powerpoint e exibe os principais aspectos relacionados com o desenvolvimento do projeto, tais como: Motivação, Justificativa, Objetivos, Requisitos, Arquitetura da solução, Template do site, Funcionalidades, Plano e Registro de Software. O video demonstrativo 
 
 Evidências:
 
