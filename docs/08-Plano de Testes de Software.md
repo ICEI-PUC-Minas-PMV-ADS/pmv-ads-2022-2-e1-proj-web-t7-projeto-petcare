@@ -6,14 +6,19 @@ Apresente os cenários de testes utilizados na realização dos testes da sua ap
 
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
 
-Plano de Teste
+<strong>Plano de Teste</strong>
 
-
-Requisito associado:     Requisito Funcional RF-001: Agendamento de Serviços on-line;
-Objetivo do teste:       Avaliar se os dados inseridos no formulário estão sendo armazenados no localStorage;
-Procedimento de teste:   Acessar o site PetCare; Preencher todos os campos do formulário; Clicar em Confirmar para inserção do novo registro;
-Métrica satisfatória:    O novo registro deverá ser inserido no banco de dados, os campos do formulário devem estar limpos (em branco);
-
+Requisito associado: Requisito Funcional `RF-001`: Agendamento de Serviços on-line
+<ul>
+<li> Objetivo do teste: Avaliar se os dados inseridos no formulário estão sendo armazenados no localStorage;
+<li>Procedimento de teste: 
+ <ul>
+ <li> Acessar o site PetCare; 
+ <li> Preencher todos os campos do formulário; 
+ <li> Clicar em Confirmar para inserção do novo registro;
+ </ul>
+<li>Métrica satisfatória: O novo registro deverá ser inserido no banco de dados, os campos do formulário devem estar limpos (em branco);
+</ul>
 
 Requisito associado:     Requisito Funcional RF-008: Cadastramento de pets no sistema;
 Objetivo do teste:       Avaliar se os dados inseridos no formulário estão sendo armazenados no localStorage;
