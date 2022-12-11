@@ -12,23 +12,35 @@ Requisito associado: Requisito Funcional `RF-001`: Agendamento de Serviços on-l
 <ul>
 <li> Objetivo do teste: Avaliar se os dados inseridos no formulário estão sendo armazenados no localStorage;
 <li>Procedimento de teste: 
- <ul>
- <li> Acessar o site PetCare; 
- <li> Preencher todos os campos do formulário; 
- <li> Clicar em Confirmar para inserção do novo registro;
- </ul>
+<ul>
+<li> Acessar o site PetCare; 
+<li> Preencher todos os campos do formulário; 
+<li> Clicar em Confirmar para inserção do novo registro;
+</ul>
 <li>Métrica satisfatória: O novo registro deverá ser inserido no banco de dados, os campos do formulário devem estar limpos (em branco);
 </ul>
 
-Requisito associado:     Requisito Funcional RF-008: Cadastramento de pets no sistema;
-Objetivo do teste:       Avaliar se os dados inseridos no formulário estão sendo armazenados no localStorage;
-Procedimento de teste:   Acessar o site PetCare; Preencher todos os campos do formulário Cadastro Pet; Clicar em Confirmar para inserção do novo registro;
-Métrica satisfatória:    O novo registro deverá ser inserido no banco de dados, os campos do formulário devem estar limpos (em branco);
+Requisito associado: Requisito Funcional `RF-008`: Cadastramento de pets no sistema;
+<ul>
+<li> Objetivo do teste: Avaliar se os dados inseridos no formulário estão sendo armazenados no localStorage;
+<li> Procedimento de teste: 
+<ul>
+<li> Acessar o site PetCare; 
+<li> Preencher todos os campos do formulário Cadastro Pet; 
+<li> Clicar em Confirmar para inserção do novo registro;
+</ul>
+<li> Métrica satisfatória: O novo registro deverá ser inserido no banco de dados, os campos do formulário devem estar limpos (em branco);
+</ul>
 
-Requisito associado:     Requisito Funcional RF-008: Cadastramento de dados obtidos durante a consulta no sistema;
-Objetivo do teste:       Avaliar se os dados inseridos no formulário estão sendo armazenados no localStorage;
-Procedimento de teste:   Acessar o site PetCare; Preencher todos os campos do formulário Cadastro Pet; Clicar em Confirmar para inserção do novo registro;
-Métrica satisfatória:    O novo registro deverá ser inserido no banco de dados, os campos do formulário devem estar limpos (em branco);
+Requisito associado: Requisito Funcional `RF-008`: Cadastramento de dados obtidos durante a consulta no sistema;
+<ul>
+<li> Objetivo do teste: Avaliar se os dados inseridos no formulário estão sendo armazenados no localStorage;
+<li> Procedimento de teste: 
+<ul>
+<li> 
+<li>  Acessar o site PetCare; Preencher todos os campos do formulário Cadastro Pet; Clicar em Confirmar para inserção do novo registro;
+<li>Métrica satisfatória:    O novo registro deverá ser inserido no banco de dados, os campos do formulário devem estar limpos (em branco);
+</ul>
  
 <!--
 ## Ferramentas de Testes (Opcional)
