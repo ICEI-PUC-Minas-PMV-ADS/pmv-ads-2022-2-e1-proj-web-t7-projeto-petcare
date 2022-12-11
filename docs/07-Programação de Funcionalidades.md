@@ -19,6 +19,7 @@ Os dados deste formulário permitem a inserção do seguinte objeto JSON, na bas
 
 O cadastro dos pets é realizado durante a consulta pelo profissional da saúde. No formlário abaixo são inseridas a identificação do tutor, nome e data de nascimento do pet.Os dados deste formulário permitem a inserção do seguinte objeto JSON, na base de dados:
 
+<img width="349" alt="image" src="https://user-images.githubusercontent.com/107723446/206936216-cab53969-ac07-4e23-81b3-643a7ab4d249.png">
 
 
 Os dados deste formulário permitem a inserção do seguinte objeto JSON, na base de dados:
@@ -34,6 +35,8 @@ Os dados deste formulário permitem a inserção do seguinte objeto JSON, na bas
 
 
 O histórico dos atendimentos do animal pode ser consultado pelo profissional da saúde atraves do formulário a seguir. 
+
+<img width="326" alt="image" src="https://user-images.githubusercontent.com/107723446/206936304-4b05c43b-5030-4072-88a7-9c791f6508cc.png">
 
 
 Os dados deste formulário permitem a inserção do seguinte objeto JSON, na base de dados:
