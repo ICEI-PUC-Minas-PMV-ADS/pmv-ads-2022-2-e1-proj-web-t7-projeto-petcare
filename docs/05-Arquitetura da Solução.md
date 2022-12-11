@@ -6,11 +6,8 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Diagrama de componentes
 
-Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
+O diagrama de componentes para esta aplicação consiste nas paginas Web e na unidade de armazenamento local (localStorage) do browse.
 
-Exemplo: 
-
-Os componentes que fazem parte da solução são apresentados na Figura XX.
 
 <img src="/docs/img/locaStorage.png" width=80% height=50%>
 
@@ -34,5 +31,5 @@ Serão utilizados HTML, CSS e JavaScript para desenvolvimento das páginas web e
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+O projeto em desenvolvimento utiliza a plataforma GitHub como ambiente de hospedagem
 
