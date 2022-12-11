@@ -1,10 +1,20 @@
 # Programação de Funcionalidades
 
+Para realização de agendamento de serviços foi implementada o formulário a seguir, onde o usuário seleciona o serviço desejado, preenche o formulário com seus dados e de seu animal e seleciona o dia e horario de sua conveniência. Desta maneira é concluido o agendamento.
+
+
+O cadastro dos pets é realizado durante a consulta pelo profissional da saúde. No formlário abaixo são inseridas a identificação do tutor, nome e data de nascimento do pet.
+
+O histórico dos atendimentos do animal pode ser consultado pelo profissional da saúde atraves do formulário a seguir. 
+
+
+<!--
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
 
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
+
 
 > **Links Úteis**:
 >
@@ -12,4 +22,4 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 > - [JSON Tutorial](https://www.w3resource.com/JSON)
 > - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm) -->
