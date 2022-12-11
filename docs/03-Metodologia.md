@@ -84,12 +84,9 @@ Evidências:
 
 <b>Sprint 3:</b>
 
-Template padraão do site
-Progrmação de Funcionalidades
-
 <b>Planejamento:</b> Elaboração do template padrão do site, demais interfaces e programação das funcionalidades da aplicação. 
  
-<b>Execução:</b> Inicialmente o template padrão do site e demais interfaces foram integralmente desenvolvidas com base nos wireframes elaborados. Posteriormente o grupo chegou a conclusão que o aspecto estético do produto final poderia ser melhor apresentado e desta maneira foi realizada nova implemntação do layput das paginas.
+<b>Execução:</b> Inicialmente o template padrão do site e demais interfaces foram integralmente desenvolvidas com base nos wireframes elaborados. Posteriormente o grupo chegou a conclusão que o aspecto estético do produto final poderia ser melhor apresentado e desta maneira foi realizada nova implemntação do layout das paginas.
 
 Evidências:
 
