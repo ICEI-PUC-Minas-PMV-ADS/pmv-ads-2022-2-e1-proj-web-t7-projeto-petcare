@@ -6,9 +6,9 @@ Apresente os cenários de testes utilizados na realização dos testes da sua ap
 
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
 
-<strong>Plano de Teste</strong>
+## Plano de Teste
 
-Requisito associado: Requisito Funcional `RF-001` - Agendamento de Serviços on-line
+#### Requisito associado: Requisito Funcional `RF-001` - Agendamento de Serviços on-line
 <ul>
 <li> Objetivo do teste: Avaliar se os dados inseridos no formulário estão sendo armazenados no localStorage;
 <li>Procedimento de teste: 
@@ -20,7 +20,7 @@ Requisito associado: Requisito Funcional `RF-001` - Agendamento de Serviços on-
 <li>Métrica satisfatória: O novo registro deverá ser inserido no banco de dados, o conteúdo dos campos do formulário devem estar limpos (em branco) após clicar em confirmar;
 </ul>
 
-Requisito associado: Requisito Funcional `RF-008` - Cadastramento de pets no sistema;
+#### Requisito associado: Requisito Funcional `RF-006` - Cadastramento de pets no sistema;
 <ul>
 <li> Objetivo do teste: Avaliar se os dados inseridos no formulário estão sendo armazenados no localStorage;
 <li> Procedimento de teste: 
@@ -32,7 +32,7 @@ Requisito associado: Requisito Funcional `RF-008` - Cadastramento de pets no sis
 <li> Métrica satisfatória: O novo registro deverá ser inserido no banco de dados, o conteúdo dos campos do formulário devem estar limpos (em branco) após clicar em confirmar;
 </ul>
 
-Requisito associado: Requisito Funcional `RF-008` - Cadastramento de dados obtidos durante a consulta no sistema;
+#### Requisito associado: Requisito Funcional `RF-008` - Cadastramento de dados obtidos durante a consulta no sistema;
 <ul>
 <li> Objetivo do teste: Avaliar se os dados inseridos no formulário estão sendo armazenados no localStorage;
 <li> Procedimento de teste: 
