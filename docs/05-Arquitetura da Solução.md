@@ -12,7 +12,7 @@ Exemplo:
 
 Os componentes que fazem parte da solução são apresentados na Figura XX.
 
-FIGURA 1
+<img src="/docs/img/localStorage.png" width=80% height=50%>
 
 Imagem: https://learninfinity.info/utilizing-browser-local-storage-for-client-site-script-in-any-web-application/
 
