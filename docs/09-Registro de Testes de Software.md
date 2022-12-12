@@ -10,17 +10,18 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |-----------------------------------------|----------------------------------------------------------|
 
 
-
 #### Requisito associado: Requisito Funcional `RF-006` - Cadastramento de pets no sistema;
-<img src="/docs/img/cadastrosPet.png" width=40% height=30%>
 
-<img src="/docs/img/cadastroPet_ls.png" width=80% height=50%>
+|<img src="/docs/img/cadastroPet.png" width=50% height=50%>|<img src="/docs/img/cadastroPet_ls.png" width=100% height=80%>|
+|-----------------------------------------|----------------------------------------------------------|
+
 
 #### Requisito associado: Requisito Funcional `RF-008` - Cadastramento de dados obtidos durante a consulta no sistema;
 
-<img src="/docs/img/dadosPet.png" width=40% height=30%>
+|<img src="/docs/img/dadosPet.png" width=50% height=50%>|<img src="/docs/img/dadosPet_ls.png" width=100% height=80%>|
+|-----------------------------------------|----------------------------------------------------------|
 
-<img src="/docs/img/dadosPet_ls.png" width=80% height=50%>
+
 ## Avaliação
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
