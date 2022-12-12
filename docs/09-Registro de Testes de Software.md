@@ -30,9 +30,10 @@ Foram realizados testes de armazenamento no localStorage. Iniciamento foi realiz
 
 Os resultados obtidos e a implementação parcial do projeto não foram satisfatórios. Mas embora não tenha sido possível executar o projeto Web front-end proposto o grupo entende que os progressos obtidos com o desenvolvimento incompleto deste projeto foram grandes. O exercício dos conceitos de engenharia de software e os conhecimentos adquiridos em HTML, CSS e JavaScript (ainda na rampa ascendente da curva de aprendizagem) são estimulantes. 
 
-Será realizada revisão no código javaScript para identificação dos problemas e das soluções. Será realizada a implementação das funcionalidades que ainda não puderam ser concretizadas.
+Será realizada revisão no código javaScript para identificação dos problemas e das soluções. Será retambem realizada a implementação das funcionalidades que ainda não puderam ser concretizadas.
 
 A solução proposta e implementada em sua plenitude será um bom exercicio de desenvolvimento de sistema. 
 
+<!--
 > **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/) -->
