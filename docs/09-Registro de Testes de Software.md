@@ -9,18 +9,22 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |<img src="/docs/img/agendamento.png" width=50% height=50%>|<img src="/docs/img/agendamento_ls.png" width=100% height=80%>|
 |-----------------------------------------|----------------------------------------------------------|
 
+Foram realizados testes de armazenamento no localStorage. Iniciamento foi realizado carregamento de dados de agendamentos previamente registrados em arquivo js e a seguir a base de dados foi atualizada com a inserção de novos registros. Na duas situações os dados foram armazenados com exito no localStorage.
+
 
 #### Requisito associado: Requisito Funcional `RF-006` - Cadastramento de pets no sistema;
 
 |<img src="/docs/img/cadastroPet.png" width=50% height=50%>|<img src="/docs/img/cadastroPet_ls.png" width=100% height=80%>|
 |-----------------------------------------|----------------------------------------------------------|
 
+Foram realizados testes de armazenamento no localStorage. Iniciamento foi realizado carregamento de dados de Cadastro de Pet previamente registrados em arquivo js e a seguir a base de dados foi atualizada com a inserção de novos registros. O carregamento utilizando os dados armazenados no arquivo js foi bem sucedido, já a inserção de registro através do formulário não.
 
 #### Requisito associado: Requisito Funcional `RF-008` - Cadastramento de dados obtidos durante a consulta no sistema;
 
 |<img src="/docs/img/dadosPet.png" width=50% height=50%>|<img src="/docs/img/dadosPet_ls.png" width=100% height=80%>|
 |-----------------------------------------|----------------------------------------------------------|
 
+Foram realizados testes de armazenamento no localStorage. Iniciamento foi realizado carregamento de dados de agendamentos previamente registrados em arquivo js e a seguir a base de dados foi atualizada com a inserção de novos registros. O carregamento utilizando os dados armazenados no arquivo js foi bem sucedido, já a inserção de registro através do formulário não.
 
 ## Avaliação
 
