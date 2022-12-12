@@ -52,4 +52,5 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Armazenamento da Apresentação
 
-* <a href="presentation/README.md">Apresentação da solução</a>
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/apresenta%C3%A7%C3%A3o/Apresenta%C3%A7%C3%A3oPetCare.pdf
+
