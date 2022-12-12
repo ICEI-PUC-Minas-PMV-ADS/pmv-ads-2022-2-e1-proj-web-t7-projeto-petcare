@@ -2,7 +2,7 @@
 
 Para realização de agendamento de serviços foi implementada o formulário a seguir, onde o usuário seleciona o serviço desejado, preenche o formulário com seus dados e de seu animal e seleciona o dia e horario de sua conveniência. Desta maneira é concluido o agendamento.
 
-<img width="366" alt="image" src="https://user-images.githubusercontent.com/107723446/206936091-8d208294-4d24-405c-b78c-f726a64b1c0e.png">
+<img src="/docs/img/agendamento.png" width=40% height=30%>
 
 Os dados deste formulário permitem a inserção do seguinte objeto JSON, na base de dados:
 
@@ -19,8 +19,7 @@ Os dados deste formulário permitem a inserção do seguinte objeto JSON, na bas
 
 O cadastro dos pets é realizado durante a consulta pelo profissional da saúde. No formlário abaixo são inseridas a identificação do tutor, nome e data de nascimento do pet.Os dados deste formulário permitem a inserção do seguinte objeto JSON, na base de dados:
 
-<img width="349" alt="image" src="https://user-images.githubusercontent.com/107723446/206936216-cab53969-ac07-4e23-81b3-643a7ab4d249.png">
-
+<img src="/docs/img/cadastroPet.png" width=40% height=30%>
 
 Os dados deste formulário permitem a inserção do seguinte objeto JSON, na base de dados:
 
@@ -36,7 +35,7 @@ Os dados deste formulário permitem a inserção do seguinte objeto JSON, na bas
 
 O histórico dos atendimentos do animal pode ser consultado pelo profissional da saúde atraves do formulário a seguir. 
 
-<img width="326" alt="image" src="https://user-images.githubusercontent.com/107723446/206936304-4b05c43b-5030-4072-88a7-9c791f6508cc.png">
+<img src="/docs/img/dadosPet.png" width=40% height=30%>
 
 
 Os dados deste formulário permitem a inserção do seguinte objeto JSON, na base de dados:
