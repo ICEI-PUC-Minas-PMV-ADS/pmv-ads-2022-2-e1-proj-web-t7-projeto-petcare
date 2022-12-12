@@ -28,9 +28,12 @@ Foram realizados testes de armazenamento no localStorage. Iniciamento foi realiz
 
 ## Avaliação
 
-Embora não tenha sido possível executar o projeto Web front-end proposto, ainda, o grupo entende que os progressos obtidos com o desenvolvimento parcial deste projeto foram grandes. O exercício dos conceitos de engenharia de software e os conhecimentos adquiridos em HTML, CSS e JavaScript, ainda na rampa ascendete da curva de aprendizagem, são estimulantes. 
+Embora não tenha sido possível executar o projeto Web front-end proposto o grupo entende que os progressos obtidos com o desenvolvimento parcial deste projeto foram grandes. O exercício dos conceitos de engenharia de software e os conhecimentos adquiridos em HTML, CSS e JavaScript, ainda na rampa ascendete da curva de aprendizagem, são estimulantes. 
+
 Será realizada revisão no código javaScript para identificação problemas identificados e implementação das soluções. 
 Será realizada a implementação das funcionalidades que ainda não puderam ser concretizadas.
+
+Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
