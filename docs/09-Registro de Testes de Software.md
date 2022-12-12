@@ -32,7 +32,7 @@ Os resultados obtidos e a implementação parcial do projeto não foram satisfat
 
 Será realizada revisão no código javaScript para identificação dos problemas e das soluções. Será retambem realizada a implementação das funcionalidades que ainda não puderam ser concretizadas.
 
-A solução proposta e implementada em sua plenitude será um bom exercicio de desenvolvimento de sistema. 
+A solução proposta e implementada em sua plenitude será um bom exercício de desenvolvimento de sistema. 
 
 <!--
 > **Links Úteis**:
