@@ -5,9 +5,11 @@
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
 #### Requisito associado: Requisito Funcional `RF-001` - Agendamento de Serviços on-line
-<img src="/docs/img/agendamento.png" width=20% height=20%>
 
-<img src="/docs/img/agendamento_ls.png" width=80% height=50%>
+|<img src="/docs/img/agendamento.png" width=50% height=50%>|<img src="/docs/img/agendamento_ls.png" width=100% height=80%>|
+|-----------------------------------------|----------------------------------------------------------|
+
+
 
 #### Requisito associado: Requisito Funcional `RF-006` - Cadastramento de pets no sistema;
 <img src="/docs/img/cadastrosPet.png" width=40% height=30%>
