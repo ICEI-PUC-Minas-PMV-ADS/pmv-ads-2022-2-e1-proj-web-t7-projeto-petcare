@@ -7,3 +7,6 @@ Faça uma apresentação resumida de todo o projeto, desde a contextualização 
 Faça o upload do arquivo de vídeo e dos slides usados na apresentação no formato PDF (caso tenha feito uso de slides).
 
 https://drive.google.com/file/d/1zE-hjpeexEx7h5c22jCMwDYrUKdOL5gR/view?usp=sharing
+
+Link para o video
+https://drive.google.com/file/d/1eABuZ2wIO6rDsWKjuemBuP6pTBvsZqnT/view?usp=sharing
