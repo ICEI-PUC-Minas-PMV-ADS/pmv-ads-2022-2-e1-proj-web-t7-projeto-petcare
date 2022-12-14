@@ -42,10 +42,6 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/11-Referências.md"> Referências</a></li>
 </ol>
 
-# Hospedagem
-
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
-
 # Armazenamento do Código-Fonte
 
 https://drive.google.com/file/d/1zE-hjpeexEx7h5c22jCMwDYrUKdOL5gR/view?usp=sharing
