@@ -53,4 +53,6 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-
 
 # Video da Apresentação
 
-https://drive.google.com/file/d/1eABuZ2wIO6rDsWKjuemBuP6pTBvsZqnT/view?usp=share_link
+Video 1: https://drive.google.com/file/d/1eABuZ2wIO6rDsWKjuemBuP6pTBvsZqnT/view?usp=share_link
+
+Video 2: https://drive.google.com/file/d/1ADzyiZjnTh36CJHsj19ZcBD858ADadL9/view?usp=share_link
