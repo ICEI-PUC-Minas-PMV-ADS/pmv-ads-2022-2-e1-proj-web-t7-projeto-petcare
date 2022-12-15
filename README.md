@@ -48,6 +48,8 @@ https://drive.google.com/file/d/1zE-hjpeexEx7h5c22jCMwDYrUKdOL5gR/view?usp=shari
 
 # Armazenamento da Apresentação
 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/apresenta%C3%A7%C3%A3o/PetCare.pdf
+
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/apresenta%C3%A7%C3%A3o/Apresenta%C3%A7%C3%A3oPetCare.pdf
 
 
